@@ -1,0 +1,1240 @@
+--------- beginning of system
+05-13 02:45:38.296   214   226 E vold    : Failed to prepare /data/user_de/0: Success
+05-13 02:45:38.296   214   226 E vold    : Failed to prepare user 0 storage
+05-13 02:47:19.153  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:47:19.154  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:47:19.795  2518  2518 E ConnectivityService: Ignoring protectedNetwork 15
+05-13 02:47:19.987  2518  2518 E WallpaperManagerService: Invalid wallpaper data
+05-13 02:47:19.988  2518  2518 E WallpaperManagerService: Unable to apply new wallpaper
+05-13 02:47:20.312  2518  2518 E LockSettingsStorage: Cannot read file java.io.FileNotFoundException: /data/system/gatekeeper.password.key: open failed: ENOENT (No such file or directory)
+05-13 02:47:20.313  2518  2518 E LockSettingsStorage: Cannot read file java.io.FileNotFoundException: /data/system/password.key: open failed: ENOENT (No such file or directory)
+05-13 02:47:20.313  2518  2518 E LockSettingsStorage: Cannot read file java.io.FileNotFoundException: /data/system/gatekeeper.pattern.key: open failed: ENOENT (No such file or directory)
+05-13 02:47:20.314  2518  2518 E LockSettingsStorage: Cannot read file java.io.FileNotFoundException: /data/system/gatekeeper.gesture.key: open failed: ENOENT (No such file or directory)
+05-13 02:47:20.314  2518  2518 E LockSettingsStorage: Cannot read file java.io.FileNotFoundException: /data/system/gesture.key: open failed: ENOENT (No such file or directory)
+05-13 02:47:20.376  2518  2518 E PerformanceManager: System is not ready, dropping profile request
+05-13 02:47:20.478  2518  2518 E InputMethodManagerService: Ignoring updateSystemUiLocked due to an invalid token. uid:1000 token:null
+05-13 02:47:20.493  2518  2518 E WallpaperManagerService: Invalid wallpaper data
+05-13 02:47:20.493  2518  2518 E WallpaperManagerService: Unable to apply new wallpaper
+05-13 02:47:21.276  2518  2518 E BrokerableCMSystemService: Target component lacks cyanogenmod.permission.BIND_CORE_SERVICE service permission, failing ComponentInfo{org.cyanogenmod.cmaudio.service/org.cyanogenmod.cmaudio.service.CMAudioService}
+05-13 02:47:21.840  2518  2569 E BatteryStatsService: no controller energy info supplied
+05-13 02:47:21.842  2518  2569 E KernelWakelockReader: neither /proc/wakelocks nor /d/wakeup_sources exists
+05-13 02:47:21.857  2518  2569 E BatteryStatsService: no controller energy info supplied
+05-13 02:47:21.861  2518  2569 E KernelWakelockReader: neither /proc/wakelocks nor /d/wakeup_sources exists
+05-13 02:47:21.909  2518  3317 E ActivityThread: Failed to find provider info for call_log
+05-13 02:47:22.423  2518  2874 E ActivityThread: Failed to find provider info for com.android.calendar
+05-13 02:47:22.426  2518  2874 E ActivityThread: Failed to find provider info for com.android.calendar
+05-13 02:47:22.426  2518  3317 E ActivityThread: Failed to find provider info for com.android.soundrecorder.provider
+05-13 02:47:22.552  3231  3489 E ActivityThread: Failed to find provider info for com.android.contacts
+05-13 02:47:22.645  3231  3231 E ActivityThread: Failed to find provider info for com.meizu.cloud
+05-13 02:47:22.654  3231  3231 E ActivityThread: Failed to find provider info for com.meizu.cloud
+05-13 02:47:22.656  3231  3231 E ActivityThread: Failed to find provider info for com.meizu.cloud
+05-13 02:47:22.872  2912  3159 E ActivityThread: Failed to find provider info for com.android.contacts
+05-13 02:47:23.209  3231  3701 E ActivityThread: Failed to find provider info for com.meizu.usagestats
+05-13 02:47:23.290  2912  3596 E ActivityThread: Failed to find provider info for com.meizu.breakingscam.provider.BreakingScamContentProvider
+05-13 02:47:23.380  2912  3604 E ActivityThread: Failed to find provider info for com.meizu.breakingscam.provider.BreakingScamContentProvider
+05-13 02:47:24.155  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:47:24.156  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:47:24.318  2518  2884 E LiveDisplay: Color temperature out of range: 0
+05-13 02:47:24.972  2518  2566 E BrokerableCMSystemService: Target component lacks cyanogenmod.permission.BIND_CORE_SERVICE service permission, failing ComponentInfo{org.cyanogenmod.weatherservice/org.cyanogenmod.weatherservice.WeatherManagerService}
+05-13 02:47:25.359  2518  2518 E NotificationService: Not posting notification without small icon: Notification(pri=-2 contentView=com.flyme.systemuitools/0x109008b vibrate=null sound=null defaults=0x0 flags=0x10000062 color=0xff607d8b vis=PRIVATE)
+05-13 02:47:25.359  2518  2518 E NotificationService: WARNING: In a future release this will crash the app: com.flyme.systemuitools
+05-13 02:47:29.157  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:47:29.157  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:47:32.611  3231  3505 E ActivityThread: Failed to find provider info for com.meizu.flyme.telecom.provider
+05-13 02:47:32.814  4598  4773 E ActivityThread: Failed to find provider info for call_log
+05-13 02:47:34.158  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:47:34.158  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:47:34.825  2518  3451 E ActivityManager: applyOptionsLocked: Unknown animationType=0
+05-13 02:47:35.013  3120  4946 E ActivityThread: Failed to find provider info for com.qti.smq.qualcommFeedback.provider
+05-13 02:47:39.003  2518  2518 E NotificationService: Not posting notification without small icon: Notification(pri=-2 contentView=com.android.mms/0x109008b vibrate=null sound=null defaults=0x0 flags=0x10000062 color=0xff607d8b vis=PRIVATE)
+05-13 02:47:39.003  2518  2518 E NotificationService: WARNING: In a future release this will crash the app: com.android.mms
+05-13 02:47:39.159  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:47:39.163  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:47:40.139  5194  5306 E ActivityThread: Failed to find provider info for call_log
+05-13 02:47:40.145  5194  5307 E ActivityThread: Failed to find provider info for call_log
+05-13 02:47:40.146  5194  5308 E ActivityThread: Failed to find provider info for com.android.contacts
+05-13 02:47:40.148  5194  5308 E ActivityThread: Failed to find provider info for com.android.contacts
+05-13 02:47:40.203  5194  5306 E ActivityThread: Failed to find provider info for call_log
+05-13 02:47:40.204  5194  5307 E ActivityThread: Failed to find provider info for com.android.contacts
+05-13 02:47:40.205  5194  5307 E ActivityThread: Failed to find provider info for com.android.contacts
+05-13 02:47:40.561  2518  3317 E ActivityThread: Failed to find provider info for call_log
+05-13 02:47:41.449  5194  5440 E ActivityThread: Failed to find provider info for com.android.contacts
+05-13 02:47:41.450  5194  5440 E ActivityThread: Failed to find provider info for com.android.contacts
+05-13 02:47:41.451  5194  5440 E ActivityThread: Failed to find provider info for com.android.contacts
+05-13 02:47:41.479  5194  5241 E ActivityThread: Failed to find provider info for call_log
+05-13 02:47:41.486  2518  3320 E ActivityThread: Failed to find provider info for call_log
+05-13 02:47:41.563  5194  5241 E ActivityThread: Failed to find provider info for com.android.contacts
+05-13 02:47:41.564  5194  5241 E ActivityThread: Failed to find provider info for com.android.contacts
+05-13 02:47:41.565  5194  5241 E ActivityThread: Failed to find provider info for com.meizu.cloud
+05-13 02:47:41.955  5194  5386 E ActivityThread: Failed to find provider info for com.android.contacts
+05-13 02:47:42.018  5194  5355 E ActivityThread: Failed to find provider info for com.android.contacts
+05-13 02:47:42.026  5194  5388 E ActivityThread: Failed to find provider info for com.android.contacts
+05-13 02:47:42.027  5194  5388 E ActivityThread: Failed to find provider info for com.android.contacts
+05-13 02:47:43.402  5194  5241 E ActivityThread: Failed to find provider info for call_log
+05-13 02:47:43.411  5194  5241 E ActivityThread: Failed to find provider info for call_log
+05-13 02:47:43.519  2518  2877 E ActivityThread: Failed to find provider info for call_log
+05-13 02:47:44.164  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:47:44.165  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:47:45.212  2518  3317 E ActivityThread: Failed to find provider info for com.android.contacts
+05-13 02:47:45.216  5194  5663 E ActivityThread: Failed to find provider info for com.android.contacts
+05-13 02:47:45.322  2518  3320 E ActivityThread: Failed to find provider info for com.android.contacts
+05-13 02:47:45.323  2518  3320 E ActivityThread: Failed to find provider info for call_log
+05-13 02:47:45.483  5194  5241 E ActivityThread: Failed to find provider info for call_log
+05-13 02:47:45.487  2518  2877 E ActivityThread: Failed to find provider info for call_log
+05-13 02:47:46.173  5194  5241 E ActivityThread: Failed to find provider info for call_log
+05-13 02:47:46.183  2518  3308 E ActivityThread: Failed to find provider info for call_log
+05-13 02:47:49.166  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:47:49.166  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:47:54.167  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:47:54.167  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:47:56.012  5194  5241 E ActivityThread: Failed to find provider info for call_log
+05-13 02:47:56.014  5194  5241 E ActivityThread: Failed to find provider info for call_log
+05-13 02:47:56.017  2518  3308 E ActivityThread: Failed to find provider info for call_log
+05-13 02:47:58.969  2518  2934 E BatteryStatsService: no controller energy info supplied
+05-13 02:47:58.972  2518  2934 E BatteryStatsService: no controller energy info supplied
+05-13 02:47:58.996  2518  2934 E KernelWakelockReader: neither /proc/wakelocks nor /d/wakeup_sources exists
+05-13 02:47:58.996  2518  2934 E BatteryStatsService: modem info is invalid: ModemActivityInfo{ mTimestamp=0 mSleepTimeMs=0 mIdleTimeMs=0 mTxTimeMs[]=[0, 0, 0, 0, 0] mRxTimeMs=0 mEnergyUsed=0}
+05-13 02:47:59.168  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:47:59.168  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:48:00.826  5194  5241 E ActivityThread: Failed to find provider info for call_log
+05-13 02:48:00.829  2518  2877 E ActivityThread: Failed to find provider info for call_log
+05-13 02:48:01.429  5194  5241 E ActivityThread: Failed to find provider info for call_log
+05-13 02:48:01.430  5194  5241 E ActivityThread: Failed to find provider info for call_log
+05-13 02:48:01.434  2518  3308 E ActivityThread: Failed to find provider info for call_log
+05-13 02:48:02.177  2518  3317 E ActivityThread: Failed to find provider info for com.android.contacts
+05-13 02:48:02.189  5194  6344 E ActivityThread: Failed to find provider info for com.android.contacts
+05-13 02:48:02.583  5194  5241 E ActivityThread: Failed to find provider info for call_log
+05-13 02:48:02.585  2518  2877 E ActivityThread: Failed to find provider info for call_log
+05-13 02:48:03.143  5194  5241 E ActivityThread: Failed to find provider info for call_log
+05-13 02:48:03.147  2518  3308 E ActivityThread: Failed to find provider info for call_log
+05-13 02:48:04.169  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:48:04.170  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:48:07.908  5194  5241 E ActivityThread: Failed to find provider info for call_log
+05-13 02:48:07.911  5194  5241 E ActivityThread: Failed to find provider info for call_log
+05-13 02:48:07.914  2518  3320 E ActivityThread: Failed to find provider info for call_log
+05-13 02:48:09.172  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:48:09.174  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:48:14.177  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:48:14.180  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:48:19.186  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:48:19.189  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:48:21.317  6512  6558 E ActivityThread: Failed to find provider info for com.android.contacts
+05-13 02:48:21.340  6512  6558 E ActivityThread: Failed to find provider info for com.android.contacts
+05-13 02:48:23.053  6512  6631 E ActivityThread: Failed to find provider info for com.android.contacts
+05-13 02:48:24.193  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:48:24.196  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:48:29.198  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:48:29.199  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:48:31.685  3120  6774 E ActivityThread: Failed to find provider info for com.qti.smq.qualcommFeedback.provider
+05-13 02:48:34.200  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:48:34.201  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:48:39.201  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:48:39.202  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:48:40.719  3120  6774 E ActivityThread: Failed to find provider info for com.qti.smq.qualcommFeedback.provider
+05-13 02:48:44.203  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:48:44.203  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:48:49.204  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:48:49.205  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:48:54.206  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:48:54.206  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:48:59.207  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:48:59.209  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:49:00.496  3120  6778 E ActivityThread: Failed to find provider info for com.qti.smq.qualcommFeedback.provider
+05-13 02:49:04.211  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:49:04.213  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:49:09.215  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:49:09.215  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:49:14.216  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:49:14.218  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:49:15.047  3120  6783 E ActivityThread: Failed to find provider info for com.qti.smq.qualcommFeedback.provider
+05-13 02:49:19.219  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:49:19.219  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:49:24.220  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:49:24.221  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:49:24.490  2896  3606 E ActivityThread: Failed to find provider info for com.android.contacts
+05-13 02:49:29.222  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:49:29.222  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:49:34.223  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:49:34.224  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:49:39.225  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:49:39.226  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:49:44.228  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:49:44.231  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:49:49.236  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:49:49.237  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:49:54.239  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:49:54.243  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:49:59.245  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:49:59.246  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:50:04.246  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:50:04.247  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:50:09.249  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:50:09.252  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:50:11.515  5194  5388 E ActivityThread: Failed to find provider info for com.android.contacts
+05-13 02:50:11.517  5194  5440 E ActivityThread: Failed to find provider info for com.android.contacts
+05-13 02:50:11.519  5194  5388 E ActivityThread: Failed to find provider info for com.android.contacts
+05-13 02:50:12.031  5194  5241 E ActivityThread: Failed to find provider info for call_log
+05-13 02:50:12.036  2518  8241 E ActivityThread: Failed to find provider info for call_log
+05-13 02:50:14.256  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:50:14.260  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:50:14.987  2518  8251 E ActivityThread: Failed to find provider info for com.android.contacts
+05-13 02:50:14.988  2518  8251 E ActivityThread: Failed to find provider info for call_log
+05-13 02:50:17.296  5194  5241 E ActivityThread: Failed to find provider info for call_log
+05-13 02:50:17.303  5194  5241 E ActivityThread: Failed to find provider info for call_log
+05-13 02:50:17.341  2518  8321 E ActivityThread: Failed to find provider info for call_log
+05-13 02:50:17.882  3120  8335 E ActivityThread: Failed to find provider info for com.qti.smq.qualcommFeedback.provider
+05-13 02:50:19.265  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:50:19.266  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:50:24.268  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:50:24.271  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:50:29.275  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:50:29.278  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:50:32.116  3120  8337 E ActivityThread: Failed to find provider info for com.qti.smq.qualcommFeedback.provider
+05-13 02:50:34.115  3120  8339 E ActivityThread: Failed to find provider info for com.qti.smq.qualcommFeedback.provider
+05-13 02:50:34.280  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:50:34.281  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:50:39.283  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:50:39.285  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:50:44.289  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:50:44.292  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:50:46.810  3120  8335 E ActivityThread: Failed to find provider info for com.qti.smq.qualcommFeedback.provider
+05-13 02:50:49.295  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:50:49.298  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:50:54.301  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:50:54.304  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:50:59.307  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:50:59.307  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:51:04.309  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:51:04.313  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:51:09.316  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:51:09.319  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:51:14.322  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:51:14.323  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:51:19.324  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:51:19.325  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:51:24.326  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:51:24.327  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:51:29.328  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:51:29.329  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:51:34.331  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:51:34.335  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:51:39.339  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:51:39.343  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:51:42.137  3120  8923 E ActivityThread: Failed to find provider info for com.qti.smq.qualcommFeedback.provider
+05-13 02:51:44.345  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:51:44.346  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:51:49.348  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:51:49.351  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:51:51.544  5194  5388 E ActivityThread: Failed to find provider info for com.android.contacts
+05-13 02:51:51.544  5194  5440 E ActivityThread: Failed to find provider info for com.android.contacts
+05-13 02:51:51.546  5194  5388 E ActivityThread: Failed to find provider info for com.android.contacts
+05-13 02:51:52.056  5194  5241 E ActivityThread: Failed to find provider info for call_log
+05-13 02:51:52.060  2518  8992 E ActivityThread: Failed to find provider info for call_log
+05-13 02:51:54.359  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:51:54.364  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:51:57.334  5194  5241 E ActivityThread: Failed to find provider info for call_log
+05-13 02:51:57.335  5194  5241 E ActivityThread: Failed to find provider info for call_log
+05-13 02:51:57.346  2518  9019 E ActivityThread: Failed to find provider info for call_log
+05-13 02:51:59.367  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:51:59.369  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:52:02.566  2518  3317 E ActivityThread: Failed to find provider info for com.android.contacts
+05-13 02:52:02.578  5194  9073 E ActivityThread: Failed to find provider info for com.android.contacts
+05-13 02:52:02.942  5194  5241 E ActivityThread: Failed to find provider info for call_log
+05-13 02:52:02.946  2518  8992 E ActivityThread: Failed to find provider info for call_log
+05-13 02:52:03.510  5194  5241 E ActivityThread: Failed to find provider info for call_log
+05-13 02:52:03.546  2518  9019 E ActivityThread: Failed to find provider info for call_log
+05-13 02:52:04.373  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:52:04.374  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:52:09.376  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:52:09.379  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:52:14.382  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:52:14.384  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:52:19.388  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:52:19.391  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:52:24.395  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:52:24.398  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:52:29.404  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:52:29.407  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:52:33.499  5194  5241 E ActivityThread: Failed to find provider info for call_log
+05-13 02:52:33.501  5194  5241 E ActivityThread: Failed to find provider info for call_log
+05-13 02:52:33.504  2518  9224 E ActivityThread: Failed to find provider info for call_log
+05-13 02:52:34.423  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:52:34.426  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:52:39.429  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:52:39.432  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:52:44.435  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:52:44.439  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:52:49.442  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:52:49.446  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:52:52.192  5194  5484 E ActivityThread: Failed to find provider info for com.android.contacts
+05-13 02:52:52.216  5194  5355 E ActivityThread: Failed to find provider info for com.android.contacts
+05-13 02:52:52.227  5194  5484 E ActivityThread: Failed to find provider info for com.android.contacts
+05-13 02:52:52.729  5194  5241 E ActivityThread: Failed to find provider info for call_log
+05-13 02:52:52.735  2518  9273 E ActivityThread: Failed to find provider info for call_log
+05-13 02:52:54.337  5194  5241 E ActivityThread: Failed to find provider info for call_log
+05-13 02:52:54.338  5194  5241 E ActivityThread: Failed to find provider info for call_log
+05-13 02:52:54.342  2518  9294 E ActivityThread: Failed to find provider info for call_log
+05-13 02:52:54.448  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:52:54.449  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:52:59.450  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:52:59.451  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:53:04.453  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:53:04.456  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:53:09.459  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:53:09.459  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:53:14.460  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:53:14.461  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:53:19.463  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:53:19.467  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:53:24.471  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:53:24.475  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:53:29.480  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:53:29.482  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:53:30.612  5194  5355 E ActivityThread: Failed to find provider info for com.android.contacts
+05-13 02:53:30.613  5194  5484 E ActivityThread: Failed to find provider info for com.android.contacts
+05-13 02:53:30.614  5194  5484 E ActivityThread: Failed to find provider info for com.android.contacts
+05-13 02:53:31.129  5194  5241 E ActivityThread: Failed to find provider info for call_log
+05-13 02:53:31.136  2518  9763 E ActivityThread: Failed to find provider info for call_log
+05-13 02:53:34.484  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:53:34.485  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:53:35.276  5194  5388 E ActivityThread: Failed to find provider info for com.android.contacts
+05-13 02:53:35.278  5194  5440 E ActivityThread: Failed to find provider info for com.android.contacts
+05-13 02:53:35.316  5194  5484 E ActivityThread: Failed to find provider info for com.android.contacts
+05-13 02:53:35.317  5194  5355 E ActivityThread: Failed to find provider info for com.android.contacts
+05-13 02:53:38.207  5194  5194 E ActivityThread: Failed to find provider info for com.android.contacts
+05-13 02:53:38.552  5194  9818 E ActivityThread: Failed to find provider info for com.android.contacts
+05-13 02:53:39.486  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:53:39.487  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:53:39.850  5194  9820 E ActivityThread: Failed to find provider info for com.android.contacts
+05-13 02:53:39.915  5194  5440 E ActivityThread: Failed to find provider info for com.android.contacts
+05-13 02:53:40.063  5194  9850 E ActivityThread: Failed to find provider info for com.android.contacts
+05-13 02:53:40.192  5194  5484 E ActivityThread: Failed to find provider info for com.android.contacts
+05-13 02:53:40.195  5194  5355 E ActivityThread: Failed to find provider info for com.android.contacts
+05-13 02:53:40.196  5194  5484 E ActivityThread: Failed to find provider info for com.android.contacts
+05-13 02:53:44.489  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:53:44.493  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:53:49.496  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:53:49.500  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:53:54.504  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:53:54.507  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:53:59.511  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:53:59.512  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:54:04.515  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:54:04.520  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:54:06.615  5194  5241 E ActivityThread: Failed to find provider info for call_log
+05-13 02:54:06.620  2518  9908 E ActivityThread: Failed to find provider info for call_log
+05-13 02:54:09.523  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:54:09.528  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:54:14.532  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:54:14.537  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:54:15.111  2518  9917 E ActivityThread: Failed to find provider info for com.android.contacts
+05-13 02:54:15.120  2518  9917 E ActivityThread: Failed to find provider info for call_log
+05-13 02:54:19.541  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:54:19.545  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:54:24.548  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:54:24.549  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:54:29.551  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:54:29.554  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:54:34.557  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:54:34.560  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:54:37.117  5194  5241 E ActivityThread: Failed to find provider info for call_log
+05-13 02:54:37.121  5194  5241 E ActivityThread: Failed to find provider info for call_log
+05-13 02:54:37.151  2518 10006 E ActivityThread: Failed to find provider info for call_log
+05-13 02:54:39.565  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:54:39.569  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:54:44.573  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:54:44.576  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:54:49.579  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:54:49.582  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:54:54.585  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:54:54.588  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:54:59.592  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:54:59.595  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:55:04.599  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:55:04.602  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:55:09.605  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:55:09.608  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:55:14.613  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:55:14.615  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:55:19.619  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:55:19.621  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:55:24.625  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:55:24.627  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:55:29.631  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:55:29.633  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:55:34.637  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:55:34.639  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:55:39.642  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:55:39.645  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:55:44.648  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:55:44.651  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:55:49.656  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:55:49.658  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:55:54.661  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:55:54.664  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:55:59.667  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:55:59.670  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:56:04.675  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:56:04.677  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:56:09.682  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:56:09.684  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:56:14.688  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:56:14.691  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:56:19.696  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:56:19.700  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:56:24.703  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:56:24.706  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:56:29.709  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:56:29.711  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:56:34.715  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:56:34.717  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:56:39.723  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:56:39.726  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:56:44.729  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:56:44.733  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:56:49.736  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:56:49.741  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:56:54.744  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:56:54.747  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:56:59.750  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:56:59.755  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:57:04.759  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:57:04.761  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:57:09.765  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:57:09.768  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:57:14.771  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:57:14.775  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:57:19.778  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:57:19.781  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:57:24.785  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:57:24.788  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:57:29.791  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:57:29.795  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:57:34.798  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:57:34.800  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:57:39.803  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:57:39.807  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:57:44.810  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:57:44.813  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:57:49.815  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:57:49.816  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:57:51.881  5194  5484 E ActivityThread: Failed to find provider info for com.android.contacts
+05-13 02:57:51.890  5194  5484 E ActivityThread: Failed to find provider info for com.android.contacts
+05-13 02:57:51.895  5194  5355 E ActivityThread: Failed to find provider info for com.android.contacts
+05-13 02:57:52.400  5194  5241 E ActivityThread: Failed to find provider info for call_log
+05-13 02:57:52.405  2518 10236 E ActivityThread: Failed to find provider info for call_log
+05-13 02:57:54.817  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:57:54.818  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:57:59.820  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:57:59.823  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:58:04.827  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:58:04.829  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:58:09.833  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:58:09.838  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:58:14.842  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:58:14.844  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:58:19.850  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:58:19.853  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:58:24.856  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:58:24.861  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:58:29.864  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:58:29.867  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:58:34.872  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:58:34.874  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:58:39.879  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:58:39.883  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:58:44.887  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:58:44.891  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:58:49.895  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:58:49.898  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:58:54.902  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:58:54.905  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:58:59.910  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:58:59.913  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:59:04.917  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:59:04.920  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:59:09.925  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:59:09.927  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:59:14.932  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:59:14.935  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:59:19.940  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:59:19.943  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:59:24.947  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:59:24.950  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:59:29.954  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:59:29.957  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:59:34.962  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:59:34.965  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:59:39.969  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:59:39.973  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:59:44.977  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:59:44.980  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:59:49.984  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:59:49.988  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:59:54.992  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 02:59:54.995  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 02:59:59.999  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 03:00:00.003  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 03:00:05.007  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 03:00:05.011  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 03:00:10.014  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 03:00:10.018  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 03:00:15.023  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 03:00:15.026  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 03:00:20.030  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 03:00:20.033  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 03:00:25.037  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 03:00:25.040  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 03:00:30.044  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 03:00:30.048  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 03:00:35.052  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 03:00:35.055  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 03:00:40.060  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 03:00:40.063  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 03:00:45.067  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 03:00:45.071  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 03:00:50.075  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 03:00:50.077  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 03:00:55.082  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 03:00:55.085  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 03:01:00.090  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 03:01:00.094  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 03:01:05.097  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 03:01:05.101  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 03:01:10.105  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 03:01:10.107  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 03:01:15.112  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 03:01:15.115  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 03:01:17.452  2518  2569 E BatteryStatsService: no controller energy info supplied
+05-13 03:01:17.452  2518  2569 E BatteryStatsService: no controller energy info supplied
+05-13 03:01:17.503  2518  2569 E KernelWakelockReader: neither /proc/wakelocks nor /d/wakeup_sources exists
+05-13 03:01:17.503  2518  2569 E BatteryStatsService: modem info is invalid: ModemActivityInfo{ mTimestamp=0 mSleepTimeMs=0 mIdleTimeMs=0 mTxTimeMs[]=[0, 0, 0, 0, 0] mRxTimeMs=0 mEnergyUsed=0}
+05-13 03:01:20.120  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 03:01:20.123  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 03:01:25.127  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 03:01:25.130  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 03:01:30.136  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 03:01:30.138  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 03:01:35.142  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 03:01:35.145  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 03:01:40.150  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 03:01:40.154  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 03:01:45.157  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 03:01:45.160  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 03:01:50.169  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 03:01:50.172  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 03:01:55.175  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 03:01:55.178  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 03:02:00.181  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 03:02:00.184  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 03:02:05.188  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 03:02:05.190  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 03:02:10.195  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 03:02:10.198  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 03:02:15.203  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 03:02:15.205  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 03:02:20.210  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 03:02:20.214  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 03:02:25.217  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 03:02:25.221  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 03:02:30.226  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 03:02:30.230  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 03:02:35.234  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 03:02:35.237  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 03:02:40.242  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 03:02:40.245  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 03:02:45.249  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 03:02:45.252  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 03:02:48.255  5194  5355 E ActivityThread: Failed to find provider info for com.android.contacts
+05-13 03:02:48.258  5194  5484 E ActivityThread: Failed to find provider info for com.android.contacts
+05-13 03:02:48.279  5194  5484 E ActivityThread: Failed to find provider info for com.android.contacts
+05-13 03:02:48.764  5194  5241 E ActivityThread: Failed to find provider info for call_log
+05-13 03:02:48.771  2518 10469 E ActivityThread: Failed to find provider info for call_log
+05-13 03:02:50.257  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 03:02:50.260  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 03:02:51.440  5194  5241 E ActivityThread: Failed to find provider info for call_log
+05-13 03:02:51.441  5194  5241 E ActivityThread: Failed to find provider info for call_log
+05-13 03:02:51.444  2518 10485 E ActivityThread: Failed to find provider info for call_log
+05-13 03:02:52.015  3120 10492 E ActivityThread: Failed to find provider info for com.qti.smq.qualcommFeedback.provider
+05-13 03:02:55.263  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 03:02:55.264  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 03:02:55.965  3120 10494 E ActivityThread: Failed to find provider info for com.qti.smq.qualcommFeedback.provider
+05-13 03:02:57.373  3120 10497 E ActivityThread: Failed to find provider info for com.qti.smq.qualcommFeedback.provider
+05-13 03:02:59.722  3120 10492 E ActivityThread: Failed to find provider info for com.qti.smq.qualcommFeedback.provider
+05-13 03:03:00.266  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 03:03:00.270  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 03:03:00.871  3120 10494 E ActivityThread: Failed to find provider info for com.qti.smq.qualcommFeedback.provider
+--------- beginning of crash
+05-13 03:03:04.496  3120 10658 E AndroidRuntime: FATAL EXCEPTION: Thread-8
+05-13 03:03:04.496  3120 10658 E AndroidRuntime: Process: com.android.settings, PID: 3120
+05-13 03:03:04.496  3120 10658 E AndroidRuntime: java.lang.IncompatibleClassChangeError: The method 'void com.android.internal.widget.LockPatternUtils.setLong(java.lang.String, long, int)' was expected to be of type direct but instead was found to be of type virtual (declaration of 'com.android.internal.widget.LockPatternUtils' appears in /system/framework/framework.jar:classes2.dex)
+05-13 03:03:04.496  3120 10658 E AndroidRuntime: 	at com.android.internal.widget.LockPatternUtils.saveFlymePasswordLength(LockPatternUtils.java)
+05-13 03:03:04.496  3120 10658 E AndroidRuntime: 	at com.android.internal.widget.LockPatternUtils.saveLockPassword(LockPatternUtils.java:877)
+05-13 03:03:04.496  3120 10658 E AndroidRuntime: 	at com.meizu.settings.security.FlymeLockPasswordUtils.saveScreenPassword(FlymeLockPasswordUtils.java:278)
+05-13 03:03:04.496  3120 10658 E AndroidRuntime: 	at com.meizu.settings.security.FlymeLockPasswordUtils.savePassword(FlymeLockPasswordUtils.java:252)
+05-13 03:03:04.496  3120 10658 E AndroidRuntime: 	at com.meizu.settings.security.FlymeEnterPasswordFragment$7.run(FlymeEnterPasswordFragment.java:480)
+05-13 03:03:04.496  3120 10658 E AndroidRuntime: 	at java.lang.Thread.run(Thread.java:761)
+05-13 03:03:05.274  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 03:03:05.277  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 03:03:10.262 10715 10812 E ActivityThread: Failed to find provider info for com.qti.smq.qualcommFeedback.provider
+05-13 03:03:10.279  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 03:03:10.280  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 03:03:15.282  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 03:03:15.285  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 03:03:20.289  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 03:03:20.290  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 03:03:20.503 10715 10812 E ActivityThread: Failed to find provider info for com.qti.smq.qualcommFeedback.provider
+--------- beginning of main
+05-13 03:03:21.668 10715 10817 E ActivityThread: Failed to find provider info for com.qti.smq.qualcommFeedback.provider
+05-13 03:03:22.550   287   287 E gatekeeperd: void android::GateKeeperProxy::clear_sid(uint32_t): could not remove file [No such file or directory], attempting 0 write
+05-13 03:03:23.790 10715 10825 E ActivityThread: Failed to find provider info for com.qti.smq.qualcommFeedback.provider
+05-13 03:03:24.576 10715 10812 E ActivityThread: Failed to find provider info for com.qti.smq.qualcommFeedback.provider
+05-13 03:03:25.292  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 03:03:25.296  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 03:03:27.826 10715 10962 E AndroidRuntime: FATAL EXCEPTION: Thread-4
+05-13 03:03:27.826 10715 10962 E AndroidRuntime: Process: com.android.settings, PID: 10715
+05-13 03:03:27.826 10715 10962 E AndroidRuntime: java.lang.IncompatibleClassChangeError: The method 'void com.android.internal.widget.LockPatternUtils.setLong(java.lang.String, long, int)' was expected to be of type direct but instead was found to be of type virtual (declaration of 'com.android.internal.widget.LockPatternUtils' appears in /system/framework/framework.jar:classes2.dex)
+05-13 03:03:27.826 10715 10962 E AndroidRuntime: 	at com.android.internal.widget.LockPatternUtils.saveFlymePasswordLength(LockPatternUtils.java)
+05-13 03:03:27.826 10715 10962 E AndroidRuntime: 	at com.android.internal.widget.LockPatternUtils.saveLockPassword(LockPatternUtils.java:877)
+05-13 03:03:27.826 10715 10962 E AndroidRuntime: 	at com.meizu.settings.security.FlymeLockPasswordUtils.saveScreenPassword(FlymeLockPasswordUtils.java:278)
+05-13 03:03:27.826 10715 10962 E AndroidRuntime: 	at com.meizu.settings.security.FlymeLockPasswordUtils.savePassword(FlymeLockPasswordUtils.java:252)
+05-13 03:03:27.826 10715 10962 E AndroidRuntime: 	at com.meizu.settings.security.FlymeEnterPasswordFragment$7.run(FlymeEnterPasswordFragment.java:480)
+05-13 03:03:27.826 10715 10962 E AndroidRuntime: 	at java.lang.Thread.run(Thread.java:761)
+05-13 03:03:27.843   249  4197 E BufferQueueProducer: [com.android.settings/com.android.settings.SubSettings] dequeueBuffer: BufferQueue has been abandoned
+05-13 03:03:27.843 10715 10823 E OpenGLRenderer: GL error:  Out of memory!
+05-13 03:03:27.917  4072  4072 E Launcher: Error start clone app: java.lang.NoSuchFieldException: No field mCloneId in class Landroid/content/Intent; (declaration of 'android.content.Intent' appears in /system/framework/framework.jar)
+05-13 03:03:30.301  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 03:03:30.304  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 03:03:35.309  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 03:03:35.312  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 03:03:40.315  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 03:03:40.319  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 03:03:45.323  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 03:03:45.326  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 03:03:50.333  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 03:03:50.336  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 03:03:54.084  4072  4072 E Launcher: Error start clone app: java.lang.NoSuchFieldException: No field mCloneId in class Landroid/content/Intent; (declaration of 'android.content.Intent' appears in /system/framework/framework.jar)
+05-13 03:03:54.084  4072  4072 E Launcher: Error start clone app: java.lang.NoSuchFieldException: No field mCloneId in class Landroid/content/Intent; (declaration of 'android.content.Intent' appears in /system/framework/framework.jar)
+05-13 03:03:55.339  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 03:03:55.340  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 03:03:58.916  4072  4072 E Launcher: Error start clone app: java.lang.NoSuchFieldException: No field mCloneId in class Landroid/content/Intent; (declaration of 'android.content.Intent' appears in /system/framework/framework.jar)
+05-13 03:03:58.916  4072  4072 E Launcher: Error start clone app: java.lang.NoSuchFieldException: No field mCloneId in class Landroid/content/Intent; (declaration of 'android.content.Intent' appears in /system/framework/framework.jar)
+05-13 03:04:00.341  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 03:04:00.342  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 03:04:00.572  4072  4072 E Launcher: Error start clone app: java.lang.NoSuchFieldException: No field mCloneId in class Landroid/content/Intent; (declaration of 'android.content.Intent' appears in /system/framework/framework.jar)
+05-13 03:04:00.572  4072  4072 E Launcher: Error start clone app: java.lang.NoSuchFieldException: No field mCloneId in class Landroid/content/Intent; (declaration of 'android.content.Intent' appears in /system/framework/framework.jar)
+05-13 03:04:01.249  4072  4072 E Launcher: Error start clone app: java.lang.NoSuchFieldException: No field mCloneId in class Landroid/content/Intent; (declaration of 'android.content.Intent' appears in /system/framework/framework.jar)
+05-13 03:04:01.249  4072  4072 E Launcher: Error start clone app: java.lang.NoSuchFieldException: No field mCloneId in class Landroid/content/Intent; (declaration of 'android.content.Intent' appears in /system/framework/framework.jar)
+05-13 03:04:01.614  4072  4072 E Launcher: Error start clone app: java.lang.NoSuchFieldException: No field mCloneId in class Landroid/content/Intent; (declaration of 'android.content.Intent' appears in /system/framework/framework.jar)
+05-13 03:04:01.614  4072  4072 E Launcher: Error start clone app: java.lang.NoSuchFieldException: No field mCloneId in class Landroid/content/Intent; (declaration of 'android.content.Intent' appears in /system/framework/framework.jar)
+05-13 03:04:05.343  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 03:04:05.344  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 03:04:08.156  4072  4072 E Launcher: Error start clone app: java.lang.NoSuchFieldException: No field mCloneId in class Landroid/content/Intent; (declaration of 'android.content.Intent' appears in /system/framework/framework.jar)
+05-13 03:04:08.156  4072  4072 E Launcher: Error start clone app: java.lang.NoSuchFieldException: No field mCloneId in class Landroid/content/Intent; (declaration of 'android.content.Intent' appears in /system/framework/framework.jar)
+05-13 03:04:10.336  4072  4072 E Launcher: Error start clone app: java.lang.NoSuchFieldException: No field mCloneId in class Landroid/content/Intent; (declaration of 'android.content.Intent' appears in /system/framework/framework.jar)
+05-13 03:04:10.337  4072  4072 E Launcher: Error start clone app: java.lang.NoSuchFieldException: No field mCloneId in class Landroid/content/Intent; (declaration of 'android.content.Intent' appears in /system/framework/framework.jar)
+05-13 03:04:10.345  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 03:04:10.346  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 03:04:11.941  4072  4072 E Launcher: Error start clone app: java.lang.NoSuchFieldException: No field mCloneId in class Landroid/content/Intent; (declaration of 'android.content.Intent' appears in /system/framework/framework.jar)
+05-13 03:04:11.941  4072  4072 E Launcher: Error start clone app: java.lang.NoSuchFieldException: No field mCloneId in class Landroid/content/Intent; (declaration of 'android.content.Intent' appears in /system/framework/framework.jar)
+05-13 03:04:12.411  4072  4072 E Launcher: Error start clone app: java.lang.NoSuchFieldException: No field mCloneId in class Landroid/content/Intent; (declaration of 'android.content.Intent' appears in /system/framework/framework.jar)
+05-13 03:04:12.411  4072  4072 E Launcher: Error start clone app: java.lang.NoSuchFieldException: No field mCloneId in class Landroid/content/Intent; (declaration of 'android.content.Intent' appears in /system/framework/framework.jar)
+05-13 03:04:15.347  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 03:04:15.348  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 03:04:18.524  4072  4072 E Launcher: Error start clone app: java.lang.NoSuchFieldException: No field mCloneId in class Landroid/content/Intent; (declaration of 'android.content.Intent' appears in /system/framework/framework.jar)
+05-13 03:04:18.524  4072  4072 E Launcher: Error start clone app: java.lang.NoSuchFieldException: No field mCloneId in class Landroid/content/Intent; (declaration of 'android.content.Intent' appears in /system/framework/framework.jar)
+05-13 03:04:19.566  4072  4072 E Launcher: Error start clone app: java.lang.NoSuchFieldException: No field mCloneId in class Landroid/content/Intent; (declaration of 'android.content.Intent' appears in /system/framework/framework.jar)
+05-13 03:04:19.566  4072  4072 E Launcher: Error start clone app: java.lang.NoSuchFieldException: No field mCloneId in class Landroid/content/Intent; (declaration of 'android.content.Intent' appears in /system/framework/framework.jar)
+05-13 03:04:20.350  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 03:04:20.351  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 03:04:23.872  2518  2518 E NotificationService: Not posting notification without small icon: Notification(pri=-2 contentView=com.android.browser/0x109008b vibrate=null sound=null defaults=0x0 flags=0x10000062 color=0xff607d8b vis=PRIVATE)
+05-13 03:04:23.872  2518  2518 E NotificationService: WARNING: In a future release this will crash the app: com.android.browser
+05-13 03:04:23.890  2518  2518 E NotificationService: Not posting notification without small icon: Notification(pri=-2 contentView=com.android.browser/0x109008b vibrate=null sound=null defaults=0x0 flags=0x10000062 color=0xff607d8b vis=PRIVATE)
+05-13 03:04:23.890  2518  2518 E NotificationService: WARNING: In a future release this will crash the app: com.android.browser
+05-13 03:04:24.049 11241 11347 E ActivityThread: Failed to find provider info for com.google.settings
+05-13 03:04:24.053 11241 11347 E ActivityThread: Failed to find provider info for com.google.settings
+05-13 03:04:24.055 11241 11347 E ActivityThread: Failed to find provider info for com.google.settings
+05-13 03:04:24.056 11241 11347 E ActivityThread: Failed to find provider info for com.google.settings
+05-13 03:04:24.561 11241 11241 E Exception: Exception: java.net.MalformedURLException: no protocol: drawable/mz_content_bg_default_pic_light
+05-13 03:04:24.629  4072  4072 E Launcher: Error start clone app: java.lang.NoSuchFieldException: No field mCloneId in class Landroid/content/Intent; (declaration of 'android.content.Intent' appears in /system/framework/framework.jar)
+05-13 03:04:24.630  4072  4072 E Launcher: Error start clone app: java.lang.NoSuchFieldException: No field mCloneId in class Landroid/content/Intent; (declaration of 'android.content.Intent' appears in /system/framework/framework.jar)
+05-13 03:04:24.949 11241 11393 E LibSbe-DbFileInfo: Failed to read file info
+05-13 03:04:24.949 11241 11393 E LibSbe-DbFileInfo: java.io.FileNotFoundException: /storage/emulated/0/Android/data/com.android.browser/cache/safebrowsing/db/info (No such file or directory)
+05-13 03:04:24.949 11241 11393 E LibSbe-DbFileInfo: 	at java.io.FileInputStream.open(Native Method)
+05-13 03:04:24.949 11241 11393 E LibSbe-DbFileInfo: 	at java.io.FileInputStream.<init>(FileInputStream.java:146)
+05-13 03:04:24.949 11241 11393 E LibSbe-DbFileInfo: 	at com.meizu.libsbe.service.a.a(SourceFile:41)
+05-13 03:04:24.949 11241 11393 E LibSbe-DbFileInfo: 	at com.meizu.libsbe.service.b.a(SourceFile:422)
+05-13 03:04:24.949 11241 11393 E LibSbe-DbFileInfo: 	at com.meizu.libsbe.service.b.a(SourceFile:43)
+05-13 03:04:24.949 11241 11393 E LibSbe-DbFileInfo: 	at com.meizu.libsbe.service.b$a.handleMessage(SourceFile:335)
+05-13 03:04:24.949 11241 11393 E LibSbe-DbFileInfo: 	at android.os.Handler.dispatchMessage(Handler.java:102)
+05-13 03:04:24.949 11241 11393 E LibSbe-DbFileInfo: 	at android.os.Looper.loop(Looper.java:154)
+05-13 03:04:24.949 11241 11393 E LibSbe-DbFileInfo: 	at android.os.HandlerThread.run(HandlerThread.java:61)
+05-13 03:04:24.949 11241 11393 E LibSbe-SBE-LookupService: Failed to load data
+05-13 03:04:24.949 11241 11393 E LibSbe-SBE-LookupService: java.lang.Exception: Failed to load info file
+05-13 03:04:24.949 11241 11393 E LibSbe-SBE-LookupService: 	at com.meizu.libsbe.service.b.a(SourceFile:425)
+05-13 03:04:24.949 11241 11393 E LibSbe-SBE-LookupService: 	at com.meizu.libsbe.service.b.a(SourceFile:43)
+05-13 03:04:24.949 11241 11393 E LibSbe-SBE-LookupService: 	at com.meizu.libsbe.service.b$a.handleMessage(SourceFile:335)
+05-13 03:04:24.949 11241 11393 E LibSbe-SBE-LookupService: 	at android.os.Handler.dispatchMessage(Handler.java:102)
+05-13 03:04:24.949 11241 11393 E LibSbe-SBE-LookupService: 	at android.os.Looper.loop(Looper.java:154)
+05-13 03:04:24.949 11241 11393 E LibSbe-SBE-LookupService: 	at android.os.HandlerThread.run(HandlerThread.java:61)
+05-13 03:04:25.007  4072  4072 E Launcher: Error start clone app: java.lang.NoSuchFieldException: No field mCloneId in class Landroid/content/Intent; (declaration of 'android.content.Intent' appears in /system/framework/framework.jar)
+05-13 03:04:25.007  4072  4072 E Launcher: Error start clone app: java.lang.NoSuchFieldException: No field mCloneId in class Landroid/content/Intent; (declaration of 'android.content.Intent' appears in /system/framework/framework.jar)
+05-13 03:04:25.352  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 03:04:25.353  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 03:04:26.467 11438 11438 E cutils-trace: Error opening trace file: No such file or directory (2)
+05-13 03:04:26.614 11443 11443 E cutils-trace: Error opening trace file: No such file or directory (2)
+05-13 03:04:26.995 11448 11468 E ActivityThread: Failed to find provider info for com.qti.smq.qualcommFeedback.provider
+05-13 03:04:29.986 11496 11496 E cutils-trace: Error opening trace file: No such file or directory (2)
+05-13 03:04:30.354  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 03:04:30.354  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 03:04:31.267 11448 11468 E ActivityThread: Failed to find provider info for com.qti.smq.qualcommFeedback.provider
+05-13 03:04:34.151 11448 11473 E ActivityThread: Failed to find provider info for com.qti.smq.qualcommFeedback.provider
+05-13 03:04:35.355  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 03:04:35.356  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 03:04:36.012 11555 11572 E SQLiteLog: (5) statement aborts at 2: [PRAGMA journal_mode=PERSIST] 
+05-13 03:04:36.258 11555 11582 E System  :  ********** PLEASE READ ************ 
+05-13 03:04:36.258 11555 11582 E System  :  * 
+05-13 03:04:36.258 11555 11582 E System  :  * New versions of the Android SDK no longer support the Crypto provider.
+05-13 03:04:36.258 11555 11582 E System  :  * If your app was relying on setSeed() to derive keys from strings, you
+05-13 03:04:36.258 11555 11582 E System  :  * should switch to using SecretKeySpec to load raw key bytes directly OR
+05-13 03:04:36.258 11555 11582 E System  :  * use a real key derivation function (KDF). See advice here : 
+05-13 03:04:36.258 11555 11582 E System  :  * http://android-developers.blogspot.com/2016/06/security-crypto-provider-deprecated-in.html 
+05-13 03:04:36.258 11555 11582 E System  :  *********************************** 
+05-13 03:04:36.258 11555 11582 E System  :  Returning an instance of SecureRandom from the Crypto provider
+05-13 03:04:36.258 11555 11582 E System  :  as a temporary measure so that the apps targeting earlier SDKs
+05-13 03:04:36.258 11555 11582 E System  :  keep working. Please do not rely on the presence of the Crypto
+05-13 03:04:36.258 11555 11582 E System  :  provider in the codebase, as our plan is to delete it
+05-13 03:04:36.258 11555 11582 E System  :  completely in the future.
+05-13 03:04:36.260 11555 11582 E System  :  ********** PLEASE READ ************ 
+05-13 03:04:36.260 11555 11582 E System  :  * 
+05-13 03:04:36.260 11555 11582 E System  :  * New versions of the Android SDK no longer support the Crypto provider.
+05-13 03:04:36.260 11555 11582 E System  :  * If your app was relying on setSeed() to derive keys from strings, you
+05-13 03:04:36.260 11555 11582 E System  :  * should switch to using SecretKeySpec to load raw key bytes directly OR
+05-13 03:04:36.260 11555 11582 E System  :  * use a real key derivation function (KDF). See advice here : 
+05-13 03:04:36.260 11555 11582 E System  :  * http://android-developers.blogspot.com/2016/06/security-crypto-provider-deprecated-in.html 
+05-13 03:04:36.260 11555 11582 E System  :  *********************************** 
+05-13 03:04:36.260 11555 11582 E System  :  Returning an instance of SecureRandom from the Crypto provider
+05-13 03:04:36.260 11555 11582 E System  :  as a temporary measure so that the apps targeting earlier SDKs
+05-13 03:04:36.260 11555 11582 E System  :  keep working. Please do not rely on the presence of the Crypto
+05-13 03:04:36.260 11555 11582 E System  :  provider in the codebase, as our plan is to delete it
+05-13 03:04:36.260 11555 11582 E System  :  completely in the future.
+05-13 03:04:36.339 11555 11582 E SQLiteLog: (1) no such table: shelfitem
+05-13 03:04:36.339 11555 11582 E SQLiteLog: (1) no such table: shelfitem
+05-13 03:04:40.358  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 03:04:40.358  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 03:04:43.402  4072  4072 E Launcher: Error start clone app: java.lang.NoSuchFieldException: No field mCloneId in class Landroid/content/Intent; (declaration of 'android.content.Intent' appears in /system/framework/framework.jar)
+05-13 03:04:43.970  4072  4072 E Launcher: Error start clone app: java.lang.NoSuchFieldException: No field mCloneId in class Landroid/content/Intent; (declaration of 'android.content.Intent' appears in /system/framework/framework.jar)
+05-13 03:04:45.360  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 03:04:45.361  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 03:04:46.742  4072  4072 E Launcher: Error start clone app: java.lang.NoSuchFieldException: No field mCloneId in class Landroid/content/Intent; (declaration of 'android.content.Intent' appears in /system/framework/framework.jar)
+05-13 03:04:46.742  4072  4072 E Launcher: Error start clone app: java.lang.NoSuchFieldException: No field mCloneId in class Landroid/content/Intent; (declaration of 'android.content.Intent' appears in /system/framework/framework.jar)
+05-13 03:04:48.949  2518  2868 E ConnectivityService: RemoteException caught trying to send a callback msg for NetworkRequest [ LISTEN id=7, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VPN] ]
+05-13 03:04:49.647  5194  5484 E ActivityThread: Failed to find provider info for com.android.contacts
+05-13 03:04:49.648  5194  5484 E ActivityThread: Failed to find provider info for com.android.contacts
+05-13 03:04:49.648  5194  5355 E ActivityThread: Failed to find provider info for com.android.contacts
+05-13 03:04:50.165  5194  5241 E ActivityThread: Failed to find provider info for call_log
+05-13 03:04:50.182  2518 11756 E ActivityThread: Failed to find provider info for call_log
+05-13 03:04:50.363  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 03:04:50.365  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 03:04:52.269  5194  5241 E ActivityThread: Failed to find provider info for call_log
+05-13 03:04:52.272  5194  5241 E ActivityThread: Failed to find provider info for call_log
+05-13 03:04:52.277  2518 11780 E ActivityThread: Failed to find provider info for call_log
+05-13 03:04:52.292  3953  4150 E AlphaMe : Can't find getWorkingAppList(void param0) from pid 3017
+05-13 03:04:52.388  5194  5355 E ActivityThread: Failed to find provider info for com.android.contacts
+05-13 03:04:52.395  5194  5484 E ActivityThread: Failed to find provider info for com.android.contacts
+05-13 03:04:52.397  5194  5484 E ActivityThread: Failed to find provider info for com.android.contacts
+05-13 03:04:52.788  4072  4072 E Launcher: Error start clone app: java.lang.NoSuchFieldException: No field mCloneId in class Landroid/content/Intent; (declaration of 'android.content.Intent' appears in /system/framework/framework.jar)
+05-13 03:04:52.788  4072  4072 E Launcher: Error start clone app: java.lang.NoSuchFieldException: No field mCloneId in class Landroid/content/Intent; (declaration of 'android.content.Intent' appears in /system/framework/framework.jar)
+05-13 03:04:52.899  5194  5241 E ActivityThread: Failed to find provider info for call_log
+05-13 03:04:52.902  2518 11807 E ActivityThread: Failed to find provider info for call_log
+05-13 03:04:53.670  3017  3017 E recents.Proxy: WhiteList writeLock unlock after data init
+05-13 03:04:53.682  5194  5241 E ActivityThread: Failed to find provider info for call_log
+05-13 03:04:53.683  5194  5241 E ActivityThread: Failed to find provider info for call_log
+05-13 03:04:53.686  2518 11756 E ActivityThread: Failed to find provider info for call_log
+05-13 03:04:53.920  3017 11830 E recents.Proxy: forceStopPackage release mem :com.android.dialer:0 79
+05-13 03:04:53.921  3017 11830 E recents.Proxy: forceStopPackage release mem :com.meizu.netcontactservice:0 36
+05-13 03:04:53.921  3017 11830 E recents.Proxy: forceStopPackage release mem :android.ext.services:0 4
+05-13 03:04:53.921  3017 11830 E recents.Proxy: forceStopPackage release mem :com.meizu.net.pedometer:0 6
+05-13 03:04:53.921  3017 11830 E recents.Proxy: forceStopPackage release mem :com.meizu.flyme.input:0 46
+05-13 03:04:53.921  3017 11830 E recents.Proxy: forceStopPackage release mem :com.android.calendar:0 17
+05-13 03:04:55.368  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 03:04:55.369  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 03:04:55.993  3953  3980 E AlphaMe : Can't find getWorkingAppList(void param0) from pid 3017
+05-13 03:04:56.075  4072  4072 E Launcher: Error start clone app: java.lang.NoSuchFieldException: No field mCloneId in class Landroid/content/Intent; (declaration of 'android.content.Intent' appears in /system/framework/framework.jar)
+05-13 03:04:56.076  4072  4072 E Launcher: Error start clone app: java.lang.NoSuchFieldException: No field mCloneId in class Landroid/content/Intent; (declaration of 'android.content.Intent' appears in /system/framework/framework.jar)
+05-13 03:05:00.371  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 03:05:00.375  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 03:05:05.379  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 03:05:05.380  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 03:05:10.382  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 03:05:10.385  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 03:05:15.389  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 03:05:15.391  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 03:05:20.394  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 03:05:20.397  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 03:05:23.882 11917 11917 E cutils-trace: Error opening trace file: No such file or directory (2)
+05-13 03:05:23.937 11898 11925 E HTTP    : execRequestByAndroidHttpClient exception: java.net.UnknownHostException: Unable to resolve host "common.meizu.com": No address associated with hostname
+05-13 03:05:23.939 11898 11925 E HTTP    : execRequestByAndroidHttpClient exception: java.net.UnknownHostException: Unable to resolve host "common.meizu.com": No address associated with hostname
+05-13 03:05:25.401  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 03:05:25.403  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 03:05:26.330  3945  4280 E NxpTml  : _i2c_write() errno : 5
+05-13 03:05:26.330  3945  4280 E NxpTml  : PN54X - Error in I2C Write.....
+05-13 03:05:26.331  3945  4282 E NxpHal  : write error status = 0x1ff
+05-13 03:05:26.331  3945  4219 E NxpHal  : write_unlocked failed - PN54X Maybe in Standby Mode - Retry
+05-13 03:05:26.385  4294  4585 E NetworkManagementMz: TrafficStatistic: policy is not null
+05-13 03:05:30.407  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 03:05:30.411  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 03:05:35.414  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 03:05:35.416  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 03:05:37.100  4011  4064 E WifiManagerFlyme: disableScanInterface exception: java.lang.NoSuchMethodException
+05-13 03:05:37.173  3945  4280 E NxpTml  : _i2c_write() errno : 5
+05-13 03:05:37.173  3945  4280 E NxpTml  : PN54X - Error in I2C Write.....
+05-13 03:05:37.173  3945  4282 E NxpHal  : write error status = 0x1ff
+05-13 03:05:37.173  3945  4219 E NxpHal  : write_unlocked failed - PN54X Maybe in Standby Mode - Retry
+05-13 03:05:39.151  2518  3450 E ActivityManager: Sending non-protected broadcast flyme.action.read_filter_notification_all from system 2912:com.android.systemui/u0a33 pkg com.android.systemui
+05-13 03:05:39.151  2518  3450 E ActivityManager: java.lang.Throwable
+05-13 03:05:39.151  2518  3450 E ActivityManager: 	at com.android.server.am.ActivityManagerService.checkBroadcastFromSystem(ActivityManagerService.java:18114)
+05-13 03:05:39.151  2518  3450 E ActivityManager: 	at com.android.server.am.ActivityManagerService.broadcastIntentLocked(ActivityManagerService.java:18703)
+05-13 03:05:39.151  2518  3450 E ActivityManager: 	at com.android.server.am.ActivityManagerService.broadcastIntent(ActivityManagerService.java:18794)
+05-13 03:05:39.151  2518  3450 E ActivityManager: 	at android.app.ActivityManagerNative.onTransact(ActivityManagerNative.java:499)
+05-13 03:05:39.151  2518  3450 E ActivityManager: 	at com.android.server.am.ActivityManagerService.onTransact(ActivityManagerService.java:2974)
+05-13 03:05:39.151  2518  3450 E ActivityManager: 	at com.android.server.am.FlymeExtActivityManagerService.onTransact(FlymeExtActivityManagerService.java:72)
+05-13 03:05:39.151  2518  3450 E ActivityManager: 	at android.os.Binder.execTransact(Binder.java:565)
+05-13 03:05:39.222  4072  4072 E Launcher: Error start clone app: java.lang.NoSuchFieldException: No field mCloneId in class Landroid/content/Intent; (declaration of 'android.content.Intent' appears in /system/framework/framework.jar)
+05-13 03:05:39.222  4072  4072 E Launcher: Error start clone app: java.lang.NoSuchFieldException: No field mCloneId in class Landroid/content/Intent; (declaration of 'android.content.Intent' appears in /system/framework/framework.jar)
+05-13 03:05:39.241  2518  4249 E ActivityManager: Sending non-protected broadcast flyme.action.read_filter_notification_all from system 2912:com.android.systemui/u0a33 pkg com.android.systemui
+05-13 03:05:39.241  2518  4249 E ActivityManager: java.lang.Throwable
+05-13 03:05:39.241  2518  4249 E ActivityManager: 	at com.android.server.am.ActivityManagerService.checkBroadcastFromSystem(ActivityManagerService.java:18114)
+05-13 03:05:39.241  2518  4249 E ActivityManager: 	at com.android.server.am.ActivityManagerService.broadcastIntentLocked(ActivityManagerService.java:18703)
+05-13 03:05:39.241  2518  4249 E ActivityManager: 	at com.android.server.am.ActivityManagerService.broadcastIntent(ActivityManagerService.java:18794)
+05-13 03:05:39.241  2518  4249 E ActivityManager: 	at android.app.ActivityManagerNative.onTransact(ActivityManagerNative.java:499)
+05-13 03:05:39.241  2518  4249 E ActivityManager: 	at com.android.server.am.ActivityManagerService.onTransact(ActivityManagerService.java:2974)
+05-13 03:05:39.241  2518  4249 E ActivityManager: 	at com.android.server.am.FlymeExtActivityManagerService.onTransact(FlymeExtActivityManagerService.java:72)
+05-13 03:05:39.241  2518  4249 E ActivityManager: 	at android.os.Binder.execTransact(Binder.java:565)
+05-13 03:05:39.286  3945  4280 E NxpTml  : _i2c_write() errno : 5
+05-13 03:05:39.286  3945  4280 E NxpTml  : PN54X - Error in I2C Write.....
+05-13 03:05:39.286  3945  4282 E NxpHal  : write error status = 0x1ff
+05-13 03:05:39.286  3945  4219 E NxpHal  : write_unlocked failed - PN54X Maybe in Standby Mode - Retry
+05-13 03:05:39.288  3945  4280 E NxpTml  : _i2c_write() errno : 5
+05-13 03:05:39.288  3945  4280 E NxpTml  : PN54X - Error in I2C Write.....
+05-13 03:05:39.288  3945  4282 E NxpHal  : write error status = 0x1ff
+05-13 03:05:39.288  3945  4219 E NxpHal  : write_unlocked failed - PN54X Maybe in Standby Mode - Retry
+05-13 03:05:39.292  3945  4219 E BrcmNfcJni: nfaConnectionCallback: unknown event ????
+05-13 03:05:39.674 12157 12157 E cutils-trace: Error opening trace file: No such file or directory (2)
+05-13 03:05:39.939 12162 12189 E PhoneUtils: Get Mz Phone SN d55026bfXXX
+05-13 03:05:39.969 12162 12189 E PhoneUtils: Get Mz Phone IMEI 864587028955806
+05-13 03:05:39.988 12193 12193 E cutils-trace: Error opening trace file: No such file or directory (2)
+05-13 03:05:40.418  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 03:05:40.419  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 03:05:40.612  4294  4585 E NetworkManagementMz: TrafficStatistic: policy is not null
+05-13 03:05:40.615 12137 12227 E Logger  : 
+05-13 03:05:40.620 12162 12259 E push    : RegisterStatus: BasicPushStatus{code='0', message='com.meizu.cloud.pushsdk.networking.error.ANError: java.net.UnknownHostException: Unable to resolve host "api-push.meizu.com": No address associated with hostname'}pushId='null', Become invalid after 0 seconds }
+05-13 03:05:41.832 12162 12264 E Logger  : 
+05-13 03:05:42.186 12283 12353 E ActivityThread: Failed to find provider info for com.android.contacts
+05-13 03:05:42.186 12283 12353 E ActivityThread: Failed to find provider info for com.android.contacts
+05-13 03:05:42.187 12283 12353 E ActivityThread: Failed to find provider info for com.android.contacts
+05-13 03:05:42.209 12283 12313 E ActivityThread: Failed to find provider info for call_log
+05-13 03:05:42.212  2518 12356 E ActivityThread: Failed to find provider info for call_log
+05-13 03:05:42.448 12283 12361 E ActivityThread: Failed to find provider info for call_log
+05-13 03:05:42.461 12283 12362 E ActivityThread: Failed to find provider info for call_log
+05-13 03:05:42.513 12283 12363 E ActivityThread: Failed to find provider info for com.android.contacts
+05-13 03:05:42.518 12283 12363 E ActivityThread: Failed to find provider info for com.android.contacts
+05-13 03:05:42.521 12283 12361 E ActivityThread: Failed to find provider info for call_log
+05-13 03:05:42.529 12283 12362 E ActivityThread: Failed to find provider info for com.android.contacts
+05-13 03:05:42.530 12283 12362 E ActivityThread: Failed to find provider info for com.android.contacts
+05-13 03:05:42.656 12283 12335 E ActivityThread: Failed to find provider info for com.android.contacts
+05-13 03:05:42.739 12283 12324 E ActivityThread: Failed to find provider info for com.android.contacts
+05-13 03:05:42.767 12283 12337 E ActivityThread: Failed to find provider info for com.android.contacts
+05-13 03:05:42.778 12283 12337 E ActivityThread: Failed to find provider info for com.android.contacts
+05-13 03:05:43.023 12283 12313 E ActivityThread: Failed to find provider info for call_log
+05-13 03:05:43.024 12283 12313 E ActivityThread: Failed to find provider info for call_log
+05-13 03:05:43.043  2518 12408 E ActivityThread: Failed to find provider info for call_log
+05-13 03:05:43.509 12283 12313 E ActivityThread: Failed to find provider info for com.android.contacts
+05-13 03:05:43.510 12283 12313 E ActivityThread: Failed to find provider info for com.android.contacts
+05-13 03:05:43.510 12283 12313 E ActivityThread: Failed to find provider info for com.meizu.cloud
+05-13 03:05:45.338 12200 12209 E System  : Uncaught exception thrown by finalizer
+05-13 03:05:45.339 12200 12209 E System  : java.lang.UnsatisfiedLinkError: No implementation found for void libcore.icu.Transliterator.destroy(long) (tried Java_libcore_icu_Transliterator_destroy and Java_libcore_icu_Transliterator_destroy__J)
+05-13 03:05:45.339 12200 12209 E System  : 	at libcore.icu.Transliterator.destroy(Native Method)
+05-13 03:05:45.339 12200 12209 E System  : 	at libcore.icu.Transliterator.finalize(SourceFile:37)
+05-13 03:05:45.339 12200 12209 E System  : 	at java.lang.Daemons$FinalizerDaemon.doFinalize(Daemons.java:222)
+05-13 03:05:45.339 12200 12209 E System  : 	at java.lang.Daemons$FinalizerDaemon.run(Daemons.java:209)
+05-13 03:05:45.339 12200 12209 E System  : 	at java.lang.Thread.run(Thread.java:761)
+05-13 03:05:45.339 12200 12209 E art     : No implementation found for void libcore.icu.Transliterator.destroy(long) (tried Java_libcore_icu_Transliterator_destroy and Java_libcore_icu_Transliterator_destroy__J)
+05-13 03:05:45.339 12200 12209 E System  : Uncaught exception thrown by finalizer
+05-13 03:05:45.339 12200 12209 E System  : java.lang.UnsatisfiedLinkError: No implementation found for void libcore.icu.Transliterator.destroy(long) (tried Java_libcore_icu_Transliterator_destroy and Java_libcore_icu_Transliterator_destroy__J)
+05-13 03:05:45.339 12200 12209 E System  : 	at libcore.icu.Transliterator.destroy(Native Method)
+05-13 03:05:45.339 12200 12209 E System  : 	at libcore.icu.Transliterator.finalize(SourceFile:37)
+05-13 03:05:45.339 12200 12209 E System  : 	at java.lang.Daemons$FinalizerDaemon.doFinalize(Daemons.java:222)
+05-13 03:05:45.339 12200 12209 E System  : 	at java.lang.Daemons$FinalizerDaemon.run(Daemons.java:209)
+05-13 03:05:45.339 12200 12209 E System  : 	at java.lang.Thread.run(Thread.java:761)
+05-13 03:05:45.339 12200 12209 E art     : No implementation found for void libcore.icu.Transliterator.destroy(long) (tried Java_libcore_icu_Transliterator_destroy and Java_libcore_icu_Transliterator_destroy__J)
+05-13 03:05:45.339 12200 12209 E System  : Uncaught exception thrown by finalizer
+05-13 03:05:45.339 12200 12209 E System  : java.lang.UnsatisfiedLinkError: No implementation found for void libcore.icu.Transliterator.destroy(long) (tried Java_libcore_icu_Transliterator_destroy and Java_libcore_icu_Transliterator_destroy__J)
+05-13 03:05:45.339 12200 12209 E System  : 	at libcore.icu.Transliterator.destroy(Native Method)
+05-13 03:05:45.339 12200 12209 E System  : 	at libcore.icu.Transliterator.finalize(SourceFile:37)
+05-13 03:05:45.339 12200 12209 E System  : 	at java.lang.Daemons$FinalizerDaemon.doFinalize(Daemons.java:222)
+05-13 03:05:45.339 12200 12209 E System  : 	at java.lang.Daemons$FinalizerDaemon.run(Daemons.java:209)
+05-13 03:05:45.339 12200 12209 E System  : 	at java.lang.Thread.run(Thread.java:761)
+05-13 03:05:45.339 12200 12209 E art     : No implementation found for void libcore.icu.Transliterator.destroy(long) (tried Java_libcore_icu_Transliterator_destroy and Java_libcore_icu_Transliterator_destroy__J)
+05-13 03:05:45.339 12200 12209 E System  : Uncaught exception thrown by finalizer
+05-13 03:05:45.340 12200 12209 E System  : java.lang.UnsatisfiedLinkError: No implementation found for void libcore.icu.Transliterator.destroy(long) (tried Java_libcore_icu_Transliterator_destroy and Java_libcore_icu_Transliterator_destroy__J)
+05-13 03:05:45.340 12200 12209 E System  : 	at libcore.icu.Transliterator.destroy(Native Method)
+05-13 03:05:45.340 12200 12209 E System  : 	at libcore.icu.Transliterator.finalize(SourceFile:37)
+05-13 03:05:45.340 12200 12209 E System  : 	at java.lang.Daemons$FinalizerDaemon.doFinalize(Daemons.java:222)
+05-13 03:05:45.340 12200 12209 E System  : 	at java.lang.Daemons$FinalizerDaemon.run(Daemons.java:209)
+05-13 03:05:45.340 12200 12209 E System  : 	at java.lang.Thread.run(Thread.java:761)
+05-13 03:05:45.340 12200 12209 E art     : No implementation found for void libcore.icu.Transliterator.destroy(long) (tried Java_libcore_icu_Transliterator_destroy and Java_libcore_icu_Transliterator_destroy__J)
+05-13 03:05:45.340 12200 12209 E System  : Uncaught exception thrown by finalizer
+05-13 03:05:45.340 12200 12209 E System  : java.lang.UnsatisfiedLinkError: No implementation found for void libcore.icu.Transliterator.destroy(long) (tried Java_libcore_icu_Transliterator_destroy and Java_libcore_icu_Transliterator_destroy__J)
+05-13 03:05:45.340 12200 12209 E System  : 	at libcore.icu.Transliterator.destroy(Native Method)
+05-13 03:05:45.340 12200 12209 E System  : 	at libcore.icu.Transliterator.finalize(SourceFile:37)
+05-13 03:05:45.340 12200 12209 E System  : 	at java.lang.Daemons$FinalizerDaemon.doFinalize(Daemons.java:222)
+05-13 03:05:45.340 12200 12209 E System  : 	at java.lang.Daemons$FinalizerDaemon.run(Daemons.java:209)
+05-13 03:05:45.340 12200 12209 E System  : 	at java.lang.Thread.run(Thread.java:761)
+05-13 03:05:45.340 12200 12209 E art     : No implementation found for void libcore.icu.Transliterator.destroy(long) (tried Java_libcore_icu_Transliterator_destroy and Java_libcore_icu_Transliterator_destroy__J)
+05-13 03:05:45.340 12200 12209 E System  : Uncaught exception thrown by finalizer
+05-13 03:05:45.340 12200 12209 E System  : java.lang.UnsatisfiedLinkError: No implementation found for void libcore.icu.Transliterator.destroy(long) (tried Java_libcore_icu_Transliterator_destroy and Java_libcore_icu_Transliterator_destroy__J)
+05-13 03:05:45.340 12200 12209 E System  : 	at libcore.icu.Transliterator.destroy(Native Method)
+05-13 03:05:45.340 12200 12209 E System  : 	at libcore.icu.Transliterator.finalize(SourceFile:37)
+05-13 03:05:45.340 12200 12209 E System  : 	at java.lang.Daemons$FinalizerDaemon.doFinalize(Daemons.java:222)
+05-13 03:05:45.340 12200 12209 E System  : 	at java.lang.Daemons$FinalizerDaemon.run(Daemons.java:209)
+05-13 03:05:45.340 12200 12209 E System  : 	at java.lang.Thread.run(Thread.java:761)
+05-13 03:05:45.340 12200 12209 E art     : No implementation found for void libcore.icu.Transliterator.destroy(long) (tried Java_libcore_icu_Transliterator_destroy and Java_libcore_icu_Transliterator_destroy__J)
+05-13 03:05:45.340 12200 12209 E System  : Uncaught exception thrown by finalizer
+05-13 03:05:45.341 12200 12209 E System  : java.lang.UnsatisfiedLinkError: No implementation found for void libcore.icu.Transliterator.destroy(long) (tried Java_libcore_icu_Transliterator_destroy and Java_libcore_icu_Transliterator_destroy__J)
+05-13 03:05:45.341 12200 12209 E System  : 	at libcore.icu.Transliterator.destroy(Native Method)
+05-13 03:05:45.341 12200 12209 E System  : 	at libcore.icu.Transliterator.finalize(SourceFile:37)
+05-13 03:05:45.341 12200 12209 E System  : 	at java.lang.Daemons$FinalizerDaemon.doFinalize(Daemons.java:222)
+05-13 03:05:45.341 12200 12209 E System  : 	at java.lang.Daemons$FinalizerDaemon.run(Daemons.java:209)
+05-13 03:05:45.341 12200 12209 E System  : 	at java.lang.Thread.run(Thread.java:761)
+05-13 03:05:45.341 12200 12209 E art     : No implementation found for void libcore.icu.Transliterator.destroy(long) (tried Java_libcore_icu_Transliterator_destroy and Java_libcore_icu_Transliterator_destroy__J)
+05-13 03:05:45.341 12200 12209 E System  : Uncaught exception thrown by finalizer
+05-13 03:05:45.342 12200 12209 E System  : java.lang.UnsatisfiedLinkError: No implementation found for void libcore.icu.Transliterator.destroy(long) (tried Java_libcore_icu_Transliterator_destroy and Java_libcore_icu_Transliterator_destroy__J)
+05-13 03:05:45.342 12200 12209 E System  : 	at libcore.icu.Transliterator.destroy(Native Method)
+05-13 03:05:45.342 12200 12209 E System  : 	at libcore.icu.Transliterator.finalize(SourceFile:37)
+05-13 03:05:45.342 12200 12209 E System  : 	at java.lang.Daemons$FinalizerDaemon.doFinalize(Daemons.java:222)
+05-13 03:05:45.342 12200 12209 E System  : 	at java.lang.Daemons$FinalizerDaemon.run(Daemons.java:209)
+05-13 03:05:45.342 12200 12209 E System  : 	at java.lang.Thread.run(Thread.java:761)
+05-13 03:05:45.342 12200 12209 E art     : No implementation found for void libcore.icu.Transliterator.destroy(long) (tried Java_libcore_icu_Transliterator_destroy and Java_libcore_icu_Transliterator_destroy__J)
+05-13 03:05:45.342 12200 12209 E System  : Uncaught exception thrown by finalizer
+05-13 03:05:45.342 12200 12209 E System  : java.lang.UnsatisfiedLinkError: No implementation found for void libcore.icu.Transliterator.destroy(long) (tried Java_libcore_icu_Transliterator_destroy and Java_libcore_icu_Transliterator_destroy__J)
+05-13 03:05:45.342 12200 12209 E System  : 	at libcore.icu.Transliterator.destroy(Native Method)
+05-13 03:05:45.342 12200 12209 E System  : 	at libcore.icu.Transliterator.finalize(SourceFile:37)
+05-13 03:05:45.342 12200 12209 E System  : 	at java.lang.Daemons$FinalizerDaemon.doFinalize(Daemons.java:222)
+05-13 03:05:45.342 12200 12209 E System  : 	at java.lang.Daemons$FinalizerDaemon.run(Daemons.java:209)
+05-13 03:05:45.342 12200 12209 E System  : 	at java.lang.Thread.run(Thread.java:761)
+05-13 03:05:45.342 12200 12209 E art     : No implementation found for void libcore.icu.Transliterator.destroy(long) (tried Java_libcore_icu_Transliterator_destroy and Java_libcore_icu_Transliterator_destroy__J)
+05-13 03:05:45.342 12200 12209 E System  : Uncaught exception thrown by finalizer
+05-13 03:05:45.342 12200 12209 E System  : java.lang.UnsatisfiedLinkError: No implementation found for void libcore.icu.Transliterator.destroy(long) (tried Java_libcore_icu_Transliterator_destroy and Java_libcore_icu_Transliterator_destroy__J)
+05-13 03:05:45.342 12200 12209 E System  : 	at libcore.icu.Transliterator.destroy(Native Method)
+05-13 03:05:45.342 12200 12209 E System  : 	at libcore.icu.Transliterator.finalize(SourceFile:37)
+05-13 03:05:45.342 12200 12209 E System  : 	at java.lang.Daemons$FinalizerDaemon.doFinalize(Daemons.java:222)
+05-13 03:05:45.342 12200 12209 E System  : 	at java.lang.Daemons$FinalizerDaemon.run(Daemons.java:209)
+05-13 03:05:45.342 12200 12209 E System  : 	at java.lang.Thread.run(Thread.java:761)
+05-13 03:05:45.342 12200 12209 E art     : No implementation found for void libcore.icu.Transliterator.destroy(long) (tried Java_libcore_icu_Transliterator_destroy and Java_libcore_icu_Transliterator_destroy__J)
+05-13 03:05:45.343 12200 12209 E System  : Uncaught exception thrown by finalizer
+05-13 03:05:45.343 12200 12209 E System  : java.lang.UnsatisfiedLinkError: No implementation found for void libcore.icu.Transliterator.destroy(long) (tried Java_libcore_icu_Transliterator_destroy and Java_libcore_icu_Transliterator_destroy__J)
+05-13 03:05:45.343 12200 12209 E System  : 	at libcore.icu.Transliterator.destroy(Native Method)
+05-13 03:05:45.343 12200 12209 E System  : 	at libcore.icu.Transliterator.finalize(SourceFile:37)
+05-13 03:05:45.343 12200 12209 E System  : 	at java.lang.Daemons$FinalizerDaemon.doFinalize(Daemons.java:222)
+05-13 03:05:45.343 12200 12209 E System  : 	at java.lang.Daemons$FinalizerDaemon.run(Daemons.java:209)
+05-13 03:05:45.343 12200 12209 E System  : 	at java.lang.Thread.run(Thread.java:761)
+05-13 03:05:45.343 12200 12209 E art     : No implementation found for void libcore.icu.Transliterator.destroy(long) (tried Java_libcore_icu_Transliterator_destroy and Java_libcore_icu_Transliterator_destroy__J)
+05-13 03:05:45.343 12200 12209 E System  : Uncaught exception thrown by finalizer
+05-13 03:05:45.343 12200 12209 E System  : java.lang.UnsatisfiedLinkError: No implementation found for void libcore.icu.Transliterator.destroy(long) (tried Java_libcore_icu_Transliterator_destroy and Java_libcore_icu_Transliterator_destroy__J)
+05-13 03:05:45.343 12200 12209 E System  : 	at libcore.icu.Transliterator.destroy(Native Method)
+05-13 03:05:45.343 12200 12209 E System  : 	at libcore.icu.Transliterator.finalize(SourceFile:37)
+05-13 03:05:45.343 12200 12209 E System  : 	at java.lang.Daemons$FinalizerDaemon.doFinalize(Daemons.java:222)
+05-13 03:05:45.343 12200 12209 E System  : 	at java.lang.Daemons$FinalizerDaemon.run(Daemons.java:209)
+05-13 03:05:45.343 12200 12209 E System  : 	at java.lang.Thread.run(Thread.java:761)
+05-13 03:05:45.343 12200 12209 E art     : No implementation found for void libcore.icu.Transliterator.destroy(long) (tried Java_libcore_icu_Transliterator_destroy and Java_libcore_icu_Transliterator_destroy__J)
+05-13 03:05:45.343 12200 12209 E System  : Uncaught exception thrown by finalizer
+05-13 03:05:45.343 12200 12209 E System  : java.lang.UnsatisfiedLinkError: No implementation found for void libcore.icu.Transliterator.destroy(long) (tried Java_libcore_icu_Transliterator_destroy and Java_libcore_icu_Transliterator_destroy__J)
+05-13 03:05:45.343 12200 12209 E System  : 	at libcore.icu.Transliterator.destroy(Native Method)
+05-13 03:05:45.343 12200 12209 E System  : 	at libcore.icu.Transliterator.finalize(SourceFile:37)
+05-13 03:05:45.343 12200 12209 E System  : 	at java.lang.Daemons$FinalizerDaemon.doFinalize(Daemons.java:222)
+05-13 03:05:45.343 12200 12209 E System  : 	at java.lang.Daemons$FinalizerDaemon.run(Daemons.java:209)
+05-13 03:05:45.343 12200 12209 E System  : 	at java.lang.Thread.run(Thread.java:761)
+05-13 03:05:45.343 12200 12209 E art     : No implementation found for void libcore.icu.Transliterator.destroy(long) (tried Java_libcore_icu_Transliterator_destroy and Java_libcore_icu_Transliterator_destroy__J)
+05-13 03:05:45.343 12200 12209 E System  : Uncaught exception thrown by finalizer
+05-13 03:05:45.344 12200 12209 E System  : java.lang.UnsatisfiedLinkError: No implementation found for void libcore.icu.Transliterator.destroy(long) (tried Java_libcore_icu_Transliterator_destroy and Java_libcore_icu_Transliterator_destroy__J)
+05-13 03:05:45.344 12200 12209 E System  : 	at libcore.icu.Transliterator.destroy(Native Method)
+05-13 03:05:45.344 12200 12209 E System  : 	at libcore.icu.Transliterator.finalize(SourceFile:37)
+05-13 03:05:45.344 12200 12209 E System  : 	at java.lang.Daemons$FinalizerDaemon.doFinalize(Daemons.java:222)
+05-13 03:05:45.344 12200 12209 E System  : 	at java.lang.Daemons$FinalizerDaemon.run(Daemons.java:209)
+05-13 03:05:45.344 12200 12209 E System  : 	at java.lang.Thread.run(Thread.java:761)
+05-13 03:05:45.344 12200 12209 E art     : No implementation found for void libcore.icu.Transliterator.destroy(long) (tried Java_libcore_icu_Transliterator_destroy and Java_libcore_icu_Transliterator_destroy__J)
+05-13 03:05:45.344 12200 12209 E System  : Uncaught exception thrown by finalizer
+05-13 03:05:45.344 12200 12209 E System  : java.lang.UnsatisfiedLinkError: No implementation found for void libcore.icu.Transliterator.destroy(long) (tried Java_libcore_icu_Transliterator_destroy and Java_libcore_icu_Transliterator_destroy__J)
+05-13 03:05:45.344 12200 12209 E System  : 	at libcore.icu.Transliterator.destroy(Native Method)
+05-13 03:05:45.344 12200 12209 E System  : 	at libcore.icu.Transliterator.finalize(SourceFile:37)
+05-13 03:05:45.344 12200 12209 E System  : 	at java.lang.Daemons$FinalizerDaemon.doFinalize(Daemons.java:222)
+05-13 03:05:45.344 12200 12209 E System  : 	at java.lang.Daemons$FinalizerDaemon.run(Daemons.java:209)
+05-13 03:05:45.344 12200 12209 E System  : 	at java.lang.Thread.run(Thread.java:761)
+05-13 03:05:45.344 12200 12209 E art     : No implementation found for void libcore.icu.Transliterator.destroy(long) (tried Java_libcore_icu_Transliterator_destroy and Java_libcore_icu_Transliterator_destroy__J)
+05-13 03:05:45.344 12200 12209 E System  : Uncaught exception thrown by finalizer
+05-13 03:05:45.344 12200 12209 E System  : java.lang.UnsatisfiedLinkError: No implementation found for void libcore.icu.Transliterator.destroy(long) (tried Java_libcore_icu_Transliterator_destroy and Java_libcore_icu_Transliterator_destroy__J)
+05-13 03:05:45.344 12200 12209 E System  : 	at libcore.icu.Transliterator.destroy(Native Method)
+05-13 03:05:45.344 12200 12209 E System  : 	at libcore.icu.Transliterator.finalize(SourceFile:37)
+05-13 03:05:45.344 12200 12209 E System  : 	at java.lang.Daemons$FinalizerDaemon.doFinalize(Daemons.java:222)
+05-13 03:05:45.344 12200 12209 E System  : 	at java.lang.Daemons$FinalizerDaemon.run(Daemons.java:209)
+05-13 03:05:45.344 12200 12209 E System  : 	at java.lang.Thread.run(Thread.java:761)
+05-13 03:05:45.344 12200 12209 E art     : No implementation found for void libcore.icu.Transliterator.destroy(long) (tried Java_libcore_icu_Transliterator_destroy and Java_libcore_icu_Transliterator_destroy__J)
+05-13 03:05:45.344 12200 12209 E System  : Uncaught exception thrown by finalizer
+05-13 03:05:45.345 12200 12209 E System  : java.lang.UnsatisfiedLinkError: No implementation found for void libcore.icu.Transliterator.destroy(long) (tried Java_libcore_icu_Transliterator_destroy and Java_libcore_icu_Transliterator_destroy__J)
+05-13 03:05:45.345 12200 12209 E System  : 	at libcore.icu.Transliterator.destroy(Native Method)
+05-13 03:05:45.345 12200 12209 E System  : 	at libcore.icu.Transliterator.finalize(SourceFile:37)
+05-13 03:05:45.345 12200 12209 E System  : 	at java.lang.Daemons$FinalizerDaemon.doFinalize(Daemons.java:222)
+05-13 03:05:45.345 12200 12209 E System  : 	at java.lang.Daemons$FinalizerDaemon.run(Daemons.java:209)
+05-13 03:05:45.345 12200 12209 E System  : 	at java.lang.Thread.run(Thread.java:761)
+05-13 03:05:45.345 12200 12209 E art     : No implementation found for void libcore.icu.Transliterator.destroy(long) (tried Java_libcore_icu_Transliterator_destroy and Java_libcore_icu_Transliterator_destroy__J)
+05-13 03:05:45.345 12200 12209 E System  : Uncaught exception thrown by finalizer
+05-13 03:05:45.345 12200 12209 E System  : java.lang.UnsatisfiedLinkError: No implementation found for void libcore.icu.Transliterator.destroy(long) (tried Java_libcore_icu_Transliterator_destroy and Java_libcore_icu_Transliterator_destroy__J)
+05-13 03:05:45.345 12200 12209 E System  : 	at libcore.icu.Transliterator.destroy(Native Method)
+05-13 03:05:45.345 12200 12209 E System  : 	at libcore.icu.Transliterator.finalize(SourceFile:37)
+05-13 03:05:45.345 12200 12209 E System  : 	at java.lang.Daemons$FinalizerDaemon.doFinalize(Daemons.java:222)
+05-13 03:05:45.345 12200 12209 E System  : 	at java.lang.Daemons$FinalizerDaemon.run(Daemons.java:209)
+05-13 03:05:45.345 12200 12209 E System  : 	at java.lang.Thread.run(Thread.java:761)
+05-13 03:05:45.345 12200 12209 E art     : No implementation found for void libcore.icu.Transliterator.destroy(long) (tried Java_libcore_icu_Transliterator_destroy and Java_libcore_icu_Transliterator_destroy__J)
+05-13 03:05:45.345 12200 12209 E System  : Uncaught exception thrown by finalizer
+05-13 03:05:45.345 12200 12209 E System  : java.lang.UnsatisfiedLinkError: No implementation found for void libcore.icu.Transliterator.destroy(long) (tried Java_libcore_icu_Transliterator_destroy and Java_libcore_icu_Transliterator_destroy__J)
+05-13 03:05:45.345 12200 12209 E System  : 	at libcore.icu.Transliterator.destroy(Native Method)
+05-13 03:05:45.345 12200 12209 E System  : 	at libcore.icu.Transliterator.finalize(SourceFile:37)
+05-13 03:05:45.345 12200 12209 E System  : 	at java.lang.Daemons$FinalizerDaemon.doFinalize(Daemons.java:222)
+05-13 03:05:45.345 12200 12209 E System  : 	at java.lang.Daemons$FinalizerDaemon.run(Daemons.java:209)
+05-13 03:05:45.345 12200 12209 E System  : 	at java.lang.Thread.run(Thread.java:761)
+05-13 03:05:45.345 12200 12209 E art     : No implementation found for void libcore.icu.Transliterator.destroy(long) (tried Java_libcore_icu_Transliterator_destroy and Java_libcore_icu_Transliterator_destroy__J)
+05-13 03:05:45.346 12200 12209 E System  : Uncaught exception thrown by finalizer
+05-13 03:05:45.346 12200 12209 E System  : java.lang.UnsatisfiedLinkError: No implementation found for void libcore.icu.Transliterator.destroy(long) (tried Java_libcore_icu_Transliterator_destroy and Java_libcore_icu_Transliterator_destroy__J)
+05-13 03:05:45.346 12200 12209 E System  : 	at libcore.icu.Transliterator.destroy(Native Method)
+05-13 03:05:45.346 12200 12209 E System  : 	at libcore.icu.Transliterator.finalize(SourceFile:37)
+05-13 03:05:45.346 12200 12209 E System  : 	at java.lang.Daemons$FinalizerDaemon.doFinalize(Daemons.java:222)
+05-13 03:05:45.346 12200 12209 E System  : 	at java.lang.Daemons$FinalizerDaemon.run(Daemons.java:209)
+05-13 03:05:45.346 12200 12209 E System  : 	at java.lang.Thread.run(Thread.java:761)
+05-13 03:05:45.346 12200 12209 E art     : No implementation found for void libcore.icu.Transliterator.destroy(long) (tried Java_libcore_icu_Transliterator_destroy and Java_libcore_icu_Transliterator_destroy__J)
+05-13 03:05:45.346 12200 12209 E System  : Uncaught exception thrown by finalizer
+05-13 03:05:45.346 12200 12209 E System  : java.lang.UnsatisfiedLinkError: No implementation found for void libcore.icu.Transliterator.destroy(long) (tried Java_libcore_icu_Transliterator_destroy and Java_libcore_icu_Transliterator_destroy__J)
+05-13 03:05:45.346 12200 12209 E System  : 	at libcore.icu.Transliterator.destroy(Native Method)
+05-13 03:05:45.346 12200 12209 E System  : 	at libcore.icu.Transliterator.finalize(SourceFile:37)
+05-13 03:05:45.346 12200 12209 E System  : 	at java.lang.Daemons$FinalizerDaemon.doFinalize(Daemons.java:222)
+05-13 03:05:45.346 12200 12209 E System  : 	at java.lang.Daemons$FinalizerDaemon.run(Daemons.java:209)
+05-13 03:05:45.346 12200 12209 E System  : 	at java.lang.Thread.run(Thread.java:761)
+05-13 03:05:45.346 12200 12209 E art     : No implementation found for void libcore.icu.Transliterator.destroy(long) (tried Java_libcore_icu_Transliterator_destroy and Java_libcore_icu_Transliterator_destroy__J)
+05-13 03:05:45.346 12200 12209 E System  : Uncaught exception thrown by finalizer
+05-13 03:05:45.347 12200 12209 E System  : java.lang.UnsatisfiedLinkError: No implementation found for void libcore.icu.Transliterator.destroy(long) (tried Java_libcore_icu_Transliterator_destroy and Java_libcore_icu_Transliterator_destroy__J)
+05-13 03:05:45.347 12200 12209 E System  : 	at libcore.icu.Transliterator.destroy(Native Method)
+05-13 03:05:45.347 12200 12209 E System  : 	at libcore.icu.Transliterator.finalize(SourceFile:37)
+05-13 03:05:45.347 12200 12209 E System  : 	at java.lang.Daemons$FinalizerDaemon.doFinalize(Daemons.java:222)
+05-13 03:05:45.347 12200 12209 E System  : 	at java.lang.Daemons$FinalizerDaemon.run(Daemons.java:209)
+05-13 03:05:45.347 12200 12209 E System  : 	at java.lang.Thread.run(Thread.java:761)
+05-13 03:05:45.347 12200 12209 E art     : No implementation found for void libcore.icu.Transliterator.destroy(long) (tried Java_libcore_icu_Transliterator_destroy and Java_libcore_icu_Transliterator_destroy__J)
+05-13 03:05:45.347 12200 12209 E System  : Uncaught exception thrown by finalizer
+05-13 03:05:45.347 12200 12209 E System  : java.lang.UnsatisfiedLinkError: No implementation found for void libcore.icu.Transliterator.destroy(long) (tried Java_libcore_icu_Transliterator_destroy and Java_libcore_icu_Transliterator_destroy__J)
+05-13 03:05:45.347 12200 12209 E System  : 	at libcore.icu.Transliterator.destroy(Native Method)
+05-13 03:05:45.347 12200 12209 E System  : 	at libcore.icu.Transliterator.finalize(SourceFile:37)
+05-13 03:05:45.347 12200 12209 E System  : 	at java.lang.Daemons$FinalizerDaemon.doFinalize(Daemons.java:222)
+05-13 03:05:45.347 12200 12209 E System  : 	at java.lang.Daemons$FinalizerDaemon.run(Daemons.java:209)
+05-13 03:05:45.347 12200 12209 E System  : 	at java.lang.Thread.run(Thread.java:761)
+05-13 03:05:45.347 12200 12209 E art     : No implementation found for void libcore.icu.Transliterator.destroy(long) (tried Java_libcore_icu_Transliterator_destroy and Java_libcore_icu_Transliterator_destroy__J)
+05-13 03:05:45.347 12200 12209 E System  : Uncaught exception thrown by finalizer
+05-13 03:05:45.347 12200 12209 E System  : java.lang.UnsatisfiedLinkError: No implementation found for void libcore.icu.Transliterator.destroy(long) (tried Java_libcore_icu_Transliterator_destroy and Java_libcore_icu_Transliterator_destroy__J)
+05-13 03:05:45.347 12200 12209 E System  : 	at libcore.icu.Transliterator.destroy(Native Method)
+05-13 03:05:45.347 12200 12209 E System  : 	at libcore.icu.Transliterator.finalize(SourceFile:37)
+05-13 03:05:45.347 12200 12209 E System  : 	at java.lang.Daemons$FinalizerDaemon.doFinalize(Daemons.java:222)
+05-13 03:05:45.347 12200 12209 E System  : 	at java.lang.Daemons$FinalizerDaemon.run(Daemons.java:209)
+05-13 03:05:45.347 12200 12209 E System  : 	at java.lang.Thread.run(Thread.java:761)
+05-13 03:05:45.347 12200 12209 E art     : No implementation found for void libcore.icu.Transliterator.destroy(long) (tried Java_libcore_icu_Transliterator_destroy and Java_libcore_icu_Transliterator_destroy__J)
+05-13 03:05:45.347 12200 12209 E System  : Uncaught exception thrown by finalizer
+05-13 03:05:45.347 12200 12209 E System  : java.lang.UnsatisfiedLinkError: No implementation found for void libcore.icu.Transliterator.destroy(long) (tried Java_libcore_icu_Transliterator_destroy and Java_libcore_icu_Transliterator_destroy__J)
+05-13 03:05:45.347 12200 12209 E System  : 	at libcore.icu.Transliterator.destroy(Native Method)
+05-13 03:05:45.347 12200 12209 E System  : 	at libcore.icu.Transliterator.finalize(SourceFile:37)
+05-13 03:05:45.347 12200 12209 E System  : 	at java.lang.Daemons$FinalizerDaemon.doFinalize(Daemons.java:222)
+05-13 03:05:45.347 12200 12209 E System  : 	at java.lang.Daemons$FinalizerDaemon.run(Daemons.java:209)
+05-13 03:05:45.347 12200 12209 E System  : 	at java.lang.Thread.run(Thread.java:761)
+05-13 03:05:45.348 12200 12209 E art     : No implementation found for void libcore.icu.Transliterator.destroy(long) (tried Java_libcore_icu_Transliterator_destroy and Java_libcore_icu_Transliterator_destroy__J)
+05-13 03:05:45.348 12200 12209 E System  : Uncaught exception thrown by finalizer
+05-13 03:05:45.348 12200 12209 E System  : java.lang.UnsatisfiedLinkError: No implementation found for void libcore.icu.Transliterator.destroy(long) (tried Java_libcore_icu_Transliterator_destroy and Java_libcore_icu_Transliterator_destroy__J)
+05-13 03:05:45.348 12200 12209 E System  : 	at libcore.icu.Transliterator.destroy(Native Method)
+05-13 03:05:45.348 12200 12209 E System  : 	at libcore.icu.Transliterator.finalize(SourceFile:37)
+05-13 03:05:45.348 12200 12209 E System  : 	at java.lang.Daemons$FinalizerDaemon.doFinalize(Daemons.java:222)
+05-13 03:05:45.348 12200 12209 E System  : 	at java.lang.Daemons$FinalizerDaemon.run(Daemons.java:209)
+05-13 03:05:45.348 12200 12209 E System  : 	at java.lang.Thread.run(Thread.java:761)
+05-13 03:05:45.348 12200 12209 E art     : No implementation found for void libcore.icu.Transliterator.destroy(long) (tried Java_libcore_icu_Transliterator_destroy and Java_libcore_icu_Transliterator_destroy__J)
+05-13 03:05:45.348 12200 12209 E System  : Uncaught exception thrown by finalizer
+05-13 03:05:45.348 12200 12209 E System  : java.lang.UnsatisfiedLinkError: No implementation found for void libcore.icu.Transliterator.destroy(long) (tried Java_libcore_icu_Transliterator_destroy and Java_libcore_icu_Transliterator_destroy__J)
+05-13 03:05:45.348 12200 12209 E System  : 	at libcore.icu.Transliterator.destroy(Native Method)
+05-13 03:05:45.348 12200 12209 E System  : 	at libcore.icu.Transliterator.finalize(SourceFile:37)
+05-13 03:05:45.348 12200 12209 E System  : 	at java.lang.Daemons$FinalizerDaemon.doFinalize(Daemons.java:222)
+05-13 03:05:45.348 12200 12209 E System  : 	at java.lang.Daemons$FinalizerDaemon.run(Daemons.java:209)
+05-13 03:05:45.348 12200 12209 E System  : 	at java.lang.Thread.run(Thread.java:761)
+05-13 03:05:45.348 12200 12209 E art     : No implementation found for void libcore.icu.Transliterator.destroy(long) (tried Java_libcore_icu_Transliterator_destroy and Java_libcore_icu_Transliterator_destroy__J)
+05-13 03:05:45.349 12200 12209 E System  : Uncaught exception thrown by finalizer
+05-13 03:05:45.350 12200 12209 E System  : java.lang.UnsatisfiedLinkError: No implementation found for void libcore.icu.Transliterator.destroy(long) (tried Java_libcore_icu_Transliterator_destroy and Java_libcore_icu_Transliterator_destroy__J)
+05-13 03:05:45.350 12200 12209 E System  : 	at libcore.icu.Transliterator.destroy(Native Method)
+05-13 03:05:45.350 12200 12209 E System  : 	at libcore.icu.Transliterator.finalize(SourceFile:37)
+05-13 03:05:45.350 12200 12209 E System  : 	at java.lang.Daemons$FinalizerDaemon.doFinalize(Daemons.java:222)
+05-13 03:05:45.350 12200 12209 E System  : 	at java.lang.Daemons$FinalizerDaemon.run(Daemons.java:209)
+05-13 03:05:45.350 12200 12209 E System  : 	at java.lang.Thread.run(Thread.java:761)
+05-13 03:05:45.350 12200 12209 E art     : No implementation found for void libcore.icu.Transliterator.destroy(long) (tried Java_libcore_icu_Transliterator_destroy and Java_libcore_icu_Transliterator_destroy__J)
+05-13 03:05:45.350 12200 12209 E System  : Uncaught exception thrown by finalizer
+05-13 03:05:45.350 12200 12209 E System  : java.lang.UnsatisfiedLinkError: No implementation found for void libcore.icu.Transliterator.destroy(long) (tried Java_libcore_icu_Transliterator_destroy and Java_libcore_icu_Transliterator_destroy__J)
+05-13 03:05:45.350 12200 12209 E System  : 	at libcore.icu.Transliterator.destroy(Native Method)
+05-13 03:05:45.350 12200 12209 E System  : 	at libcore.icu.Transliterator.finalize(SourceFile:37)
+05-13 03:05:45.350 12200 12209 E System  : 	at java.lang.Daemons$FinalizerDaemon.doFinalize(Daemons.java:222)
+05-13 03:05:45.350 12200 12209 E System  : 	at java.lang.Daemons$FinalizerDaemon.run(Daemons.java:209)
+05-13 03:05:45.350 12200 12209 E System  : 	at java.lang.Thread.run(Thread.java:761)
+05-13 03:05:45.350 12200 12209 E art     : No implementation found for void libcore.icu.Transliterator.destroy(long) (tried Java_libcore_icu_Transliterator_destroy and Java_libcore_icu_Transliterator_destroy__J)
+05-13 03:05:45.350 12200 12209 E System  : Uncaught exception thrown by finalizer
+05-13 03:05:45.350 12200 12209 E System  : java.lang.UnsatisfiedLinkError: No implementation found for void libcore.icu.Transliterator.destroy(long) (tried Java_libcore_icu_Transliterator_destroy and Java_libcore_icu_Transliterator_destroy__J)
+05-13 03:05:45.350 12200 12209 E System  : 	at libcore.icu.Transliterator.destroy(Native Method)
+05-13 03:05:45.350 12200 12209 E System  : 	at libcore.icu.Transliterator.finalize(SourceFile:37)
+05-13 03:05:45.350 12200 12209 E System  : 	at java.lang.Daemons$FinalizerDaemon.doFinalize(Daemons.java:222)
+05-13 03:05:45.350 12200 12209 E System  : 	at java.lang.Daemons$FinalizerDaemon.run(Daemons.java:209)
+05-13 03:05:45.350 12200 12209 E System  : 	at java.lang.Thread.run(Thread.java:761)
+05-13 03:05:45.350 12200 12209 E art     : No implementation found for void libcore.icu.Transliterator.destroy(long) (tried Java_libcore_icu_Transliterator_destroy and Java_libcore_icu_Transliterator_destroy__J)
+05-13 03:05:45.350 12200 12209 E System  : Uncaught exception thrown by finalizer
+05-13 03:05:45.351 12200 12209 E System  : java.lang.UnsatisfiedLinkError: No implementation found for void libcore.icu.Transliterator.destroy(long) (tried Java_libcore_icu_Transliterator_destroy and Java_libcore_icu_Transliterator_destroy__J)
+05-13 03:05:45.351 12200 12209 E System  : 	at libcore.icu.Transliterator.destroy(Native Method)
+05-13 03:05:45.351 12200 12209 E System  : 	at libcore.icu.Transliterator.finalize(SourceFile:37)
+05-13 03:05:45.351 12200 12209 E System  : 	at java.lang.Daemons$FinalizerDaemon.doFinalize(Daemons.java:222)
+05-13 03:05:45.351 12200 12209 E System  : 	at java.lang.Daemons$FinalizerDaemon.run(Daemons.java:209)
+05-13 03:05:45.351 12200 12209 E System  : 	at java.lang.Thread.run(Thread.java:761)
+05-13 03:05:45.351 12200 12209 E art     : No implementation found for void libcore.icu.Transliterator.destroy(long) (tried Java_libcore_icu_Transliterator_destroy and Java_libcore_icu_Transliterator_destroy__J)
+05-13 03:05:45.351 12200 12209 E System  : Uncaught exception thrown by finalizer
+05-13 03:05:45.351 12200 12209 E System  : java.lang.UnsatisfiedLinkError: No implementation found for void libcore.icu.Transliterator.destroy(long) (tried Java_libcore_icu_Transliterator_destroy and Java_libcore_icu_Transliterator_destroy__J)
+05-13 03:05:45.351 12200 12209 E System  : 	at libcore.icu.Transliterator.destroy(Native Method)
+05-13 03:05:45.351 12200 12209 E System  : 	at libcore.icu.Transliterator.finalize(SourceFile:37)
+05-13 03:05:45.351 12200 12209 E System  : 	at java.lang.Daemons$FinalizerDaemon.doFinalize(Daemons.java:222)
+05-13 03:05:45.351 12200 12209 E System  : 	at java.lang.Daemons$FinalizerDaemon.run(Daemons.java:209)
+05-13 03:05:45.351 12200 12209 E System  : 	at java.lang.Thread.run(Thread.java:761)
+05-13 03:05:45.351 12200 12209 E art     : No implementation found for void libcore.icu.Transliterator.destroy(long) (tried Java_libcore_icu_Transliterator_destroy and Java_libcore_icu_Transliterator_destroy__J)
+05-13 03:05:45.351 12200 12209 E System  : Uncaught exception thrown by finalizer
+05-13 03:05:45.351 12200 12209 E System  : java.lang.UnsatisfiedLinkError: No implementation found for void libcore.icu.Transliterator.destroy(long) (tried Java_libcore_icu_Transliterator_destroy and Java_libcore_icu_Transliterator_destroy__J)
+05-13 03:05:45.351 12200 12209 E System  : 	at libcore.icu.Transliterator.destroy(Native Method)
+05-13 03:05:45.351 12200 12209 E System  : 	at libcore.icu.Transliterator.finalize(SourceFile:37)
+05-13 03:05:45.351 12200 12209 E System  : 	at java.lang.Daemons$FinalizerDaemon.doFinalize(Daemons.java:222)
+05-13 03:05:45.351 12200 12209 E System  : 	at java.lang.Daemons$FinalizerDaemon.run(Daemons.java:209)
+05-13 03:05:45.351 12200 12209 E System  : 	at java.lang.Thread.run(Thread.java:761)
+05-13 03:05:45.351 12200 12209 E art     : No implementation found for void libcore.icu.Transliterator.destroy(long) (tried Java_libcore_icu_Transliterator_destroy and Java_libcore_icu_Transliterator_destroy__J)
+05-13 03:05:45.351 12200 12209 E System  : Uncaught exception thrown by finalizer
+05-13 03:05:45.351 12200 12209 E System  : java.lang.UnsatisfiedLinkError: No implementation found for void libcore.icu.Transliterator.destroy(long) (tried Java_libcore_icu_Transliterator_destroy and Java_libcore_icu_Transliterator_destroy__J)
+05-13 03:05:45.351 12200 12209 E System  : 	at libcore.icu.Transliterator.destroy(Native Method)
+05-13 03:05:45.351 12200 12209 E System  : 	at libcore.icu.Transliterator.finalize(SourceFile:37)
+05-13 03:05:45.351 12200 12209 E System  : 	at java.lang.Daemons$FinalizerDaemon.doFinalize(Daemons.java:222)
+05-13 03:05:45.351 12200 12209 E System  : 	at java.lang.Daemons$FinalizerDaemon.run(Daemons.java:209)
+05-13 03:05:45.351 12200 12209 E System  : 	at java.lang.Thread.run(Thread.java:761)
+05-13 03:05:45.351 12200 12209 E art     : No implementation found for void libcore.icu.Transliterator.destroy(long) (tried Java_libcore_icu_Transliterator_destroy and Java_libcore_icu_Transliterator_destroy__J)
+05-13 03:05:45.352 12200 12209 E System  : Uncaught exception thrown by finalizer
+05-13 03:05:45.353 12200 12209 E System  : java.lang.UnsatisfiedLinkError: No implementation found for void libcore.icu.Transliterator.destroy(long) (tried Java_libcore_icu_Transliterator_destroy and Java_libcore_icu_Transliterator_destroy__J)
+05-13 03:05:45.353 12200 12209 E System  : 	at libcore.icu.Transliterator.destroy(Native Method)
+05-13 03:05:45.353 12200 12209 E System  : 	at libcore.icu.Transliterator.finalize(SourceFile:37)
+05-13 03:05:45.353 12200 12209 E System  : 	at java.lang.Daemons$FinalizerDaemon.doFinalize(Daemons.java:222)
+05-13 03:05:45.353 12200 12209 E System  : 	at java.lang.Daemons$FinalizerDaemon.run(Daemons.java:209)
+05-13 03:05:45.353 12200 12209 E System  : 	at java.lang.Thread.run(Thread.java:761)
+05-13 03:05:45.353 12200 12209 E art     : No implementation found for void libcore.icu.Transliterator.destroy(long) (tried Java_libcore_icu_Transliterator_destroy and Java_libcore_icu_Transliterator_destroy__J)
+05-13 03:05:45.353 12200 12209 E System  : Uncaught exception thrown by finalizer
+05-13 03:05:45.353 12200 12209 E System  : java.lang.UnsatisfiedLinkError: No implementation found for void libcore.icu.Transliterator.destroy(long) (tried Java_libcore_icu_Transliterator_destroy and Java_libcore_icu_Transliterator_destroy__J)
+05-13 03:05:45.353 12200 12209 E System  : 	at libcore.icu.Transliterator.destroy(Native Method)
+05-13 03:05:45.353 12200 12209 E System  : 	at libcore.icu.Transliterator.finalize(SourceFile:37)
+05-13 03:05:45.353 12200 12209 E System  : 	at java.lang.Daemons$FinalizerDaemon.doFinalize(Daemons.java:222)
+05-13 03:05:45.353 12200 12209 E System  : 	at java.lang.Daemons$FinalizerDaemon.run(Daemons.java:209)
+05-13 03:05:45.353 12200 12209 E System  : 	at java.lang.Thread.run(Thread.java:761)
+05-13 03:05:45.353 12200 12209 E art     : No implementation found for void libcore.icu.Transliterator.destroy(long) (tried Java_libcore_icu_Transliterator_destroy and Java_libcore_icu_Transliterator_destroy__J)
+05-13 03:05:45.353 12200 12209 E System  : Uncaught exception thrown by finalizer
+05-13 03:05:45.353 12200 12209 E System  : java.lang.UnsatisfiedLinkError: No implementation found for void libcore.icu.Transliterator.destroy(long) (tried Java_libcore_icu_Transliterator_destroy and Java_libcore_icu_Transliterator_destroy__J)
+05-13 03:05:45.353 12200 12209 E System  : 	at libcore.icu.Transliterator.destroy(Native Method)
+05-13 03:05:45.353 12200 12209 E System  : 	at libcore.icu.Transliterator.finalize(SourceFile:37)
+05-13 03:05:45.353 12200 12209 E System  : 	at java.lang.Daemons$FinalizerDaemon.doFinalize(Daemons.java:222)
+05-13 03:05:45.353 12200 12209 E System  : 	at java.lang.Daemons$FinalizerDaemon.run(Daemons.java:209)
+05-13 03:05:45.353 12200 12209 E System  : 	at java.lang.Thread.run(Thread.java:761)
+05-13 03:05:45.354 12200 12209 E art     : No implementation found for void libcore.icu.Transliterator.destroy(long) (tried Java_libcore_icu_Transliterator_destroy and Java_libcore_icu_Transliterator_destroy__J)
+05-13 03:05:45.354 12200 12209 E System  : Uncaught exception thrown by finalizer
+05-13 03:05:45.354 12200 12209 E System  : java.lang.UnsatisfiedLinkError: No implementation found for void libcore.icu.Transliterator.destroy(long) (tried Java_libcore_icu_Transliterator_destroy and Java_libcore_icu_Transliterator_destroy__J)
+05-13 03:05:45.354 12200 12209 E System  : 	at libcore.icu.Transliterator.destroy(Native Method)
+05-13 03:05:45.354 12200 12209 E System  : 	at libcore.icu.Transliterator.finalize(SourceFile:37)
+05-13 03:05:45.354 12200 12209 E System  : 	at java.lang.Daemons$FinalizerDaemon.doFinalize(Daemons.java:222)
+05-13 03:05:45.354 12200 12209 E System  : 	at java.lang.Daemons$FinalizerDaemon.run(Daemons.java:209)
+05-13 03:05:45.354 12200 12209 E System  : 	at java.lang.Thread.run(Thread.java:761)
+05-13 03:05:45.354 12200 12209 E art     : No implementation found for void libcore.icu.Transliterator.destroy(long) (tried Java_libcore_icu_Transliterator_destroy and Java_libcore_icu_Transliterator_destroy__J)
+05-13 03:05:45.354 12200 12209 E System  : Uncaught exception thrown by finalizer
+05-13 03:05:45.354 12200 12209 E System  : java.lang.UnsatisfiedLinkError: No implementation found for void libcore.icu.Transliterator.destroy(long) (tried Java_libcore_icu_Transliterator_destroy and Java_libcore_icu_Transliterator_destroy__J)
+05-13 03:05:45.354 12200 12209 E System  : 	at libcore.icu.Transliterator.destroy(Native Method)
+05-13 03:05:45.354 12200 12209 E System  : 	at libcore.icu.Transliterator.finalize(SourceFile:37)
+05-13 03:05:45.354 12200 12209 E System  : 	at java.lang.Daemons$FinalizerDaemon.doFinalize(Daemons.java:222)
+05-13 03:05:45.354 12200 12209 E System  : 	at java.lang.Daemons$FinalizerDaemon.run(Daemons.java:209)
+05-13 03:05:45.354 12200 12209 E System  : 	at java.lang.Thread.run(Thread.java:761)
+05-13 03:05:45.354 12200 12209 E art     : No implementation found for void libcore.icu.Transliterator.destroy(long) (tried Java_libcore_icu_Transliterator_destroy and Java_libcore_icu_Transliterator_destroy__J)
+05-13 03:05:45.354 12200 12209 E System  : Uncaught exception thrown by finalizer
+05-13 03:05:45.354 12200 12209 E System  : java.lang.UnsatisfiedLinkError: No implementation found for void libcore.icu.Transliterator.destroy(long) (tried Java_libcore_icu_Transliterator_destroy and Java_libcore_icu_Transliterator_destroy__J)
+05-13 03:05:45.354 12200 12209 E System  : 	at libcore.icu.Transliterator.destroy(Native Method)
+05-13 03:05:45.354 12200 12209 E System  : 	at libcore.icu.Transliterator.finalize(SourceFile:37)
+05-13 03:05:45.354 12200 12209 E System  : 	at java.lang.Daemons$FinalizerDaemon.doFinalize(Daemons.java:222)
+05-13 03:05:45.354 12200 12209 E System  : 	at java.lang.Daemons$FinalizerDaemon.run(Daemons.java:209)
+05-13 03:05:45.354 12200 12209 E System  : 	at java.lang.Thread.run(Thread.java:761)
+05-13 03:05:45.354 12200 12209 E art     : No implementation found for void libcore.icu.Transliterator.destroy(long) (tried Java_libcore_icu_Transliterator_destroy and Java_libcore_icu_Transliterator_destroy__J)
+05-13 03:05:45.355 12200 12209 E System  : Uncaught exception thrown by finalizer
+05-13 03:05:45.355 12200 12209 E System  : java.lang.UnsatisfiedLinkError: No implementation found for void libcore.icu.Transliterator.destroy(long) (tried Java_libcore_icu_Transliterator_destroy and Java_libcore_icu_Transliterator_destroy__J)
+05-13 03:05:45.355 12200 12209 E System  : 	at libcore.icu.Transliterator.destroy(Native Method)
+05-13 03:05:45.355 12200 12209 E System  : 	at libcore.icu.Transliterator.finalize(SourceFile:37)
+05-13 03:05:45.355 12200 12209 E System  : 	at java.lang.Daemons$FinalizerDaemon.doFinalize(Daemons.java:222)
+05-13 03:05:45.355 12200 12209 E System  : 	at java.lang.Daemons$FinalizerDaemon.run(Daemons.java:209)
+05-13 03:05:45.355 12200 12209 E System  : 	at java.lang.Thread.run(Thread.java:761)
+05-13 03:05:45.355 12200 12209 E art     : No implementation found for void libcore.icu.Transliterator.destroy(long) (tried Java_libcore_icu_Transliterator_destroy and Java_libcore_icu_Transliterator_destroy__J)
+05-13 03:05:45.355 12200 12209 E System  : Uncaught exception thrown by finalizer
+05-13 03:05:45.355 12200 12209 E System  : java.lang.UnsatisfiedLinkError: No implementation found for void libcore.icu.Transliterator.destroy(long) (tried Java_libcore_icu_Transliterator_destroy and Java_libcore_icu_Transliterator_destroy__J)
+05-13 03:05:45.355 12200 12209 E System  : 	at libcore.icu.Transliterator.destroy(Native Method)
+05-13 03:05:45.355 12200 12209 E System  : 	at libcore.icu.Transliterator.finalize(SourceFile:37)
+05-13 03:05:45.355 12200 12209 E System  : 	at java.lang.Daemons$FinalizerDaemon.doFinalize(Daemons.java:222)
+05-13 03:05:45.355 12200 12209 E System  : 	at java.lang.Daemons$FinalizerDaemon.run(Daemons.java:209)
+05-13 03:05:45.355 12200 12209 E System  : 	at java.lang.Thread.run(Thread.java:761)
+05-13 03:05:45.355 12200 12209 E art     : No implementation found for void libcore.icu.Transliterator.destroy(long) (tried Java_libcore_icu_Transliterator_destroy and Java_libcore_icu_Transliterator_destroy__J)
+05-13 03:05:45.355 12200 12209 E System  : Uncaught exception thrown by finalizer
+05-13 03:05:45.355 12200 12209 E System  : java.lang.UnsatisfiedLinkError: No implementation found for void libcore.icu.Transliterator.destroy(long) (tried Java_libcore_icu_Transliterator_destroy and Java_libcore_icu_Transliterator_destroy__J)
+05-13 03:05:45.355 12200 12209 E System  : 	at libcore.icu.Transliterator.destroy(Native Method)
+05-13 03:05:45.355 12200 12209 E System  : 	at libcore.icu.Transliterator.finalize(SourceFile:37)
+05-13 03:05:45.355 12200 12209 E System  : 	at java.lang.Daemons$FinalizerDaemon.doFinalize(Daemons.java:222)
+05-13 03:05:45.355 12200 12209 E System  : 	at java.lang.Daemons$FinalizerDaemon.run(Daemons.java:209)
+05-13 03:05:45.355 12200 12209 E System  : 	at java.lang.Thread.run(Thread.java:761)
+05-13 03:05:45.355 12200 12209 E art     : No implementation found for void libcore.icu.Transliterator.destroy(long) (tried Java_libcore_icu_Transliterator_destroy and Java_libcore_icu_Transliterator_destroy__J)
+05-13 03:05:45.356 12200 12209 E System  : Uncaught exception thrown by finalizer
+05-13 03:05:45.356 12200 12209 E System  : java.lang.UnsatisfiedLinkError: No implementation found for void libcore.icu.Transliterator.destroy(long) (tried Java_libcore_icu_Transliterator_destroy and Java_libcore_icu_Transliterator_destroy__J)
+05-13 03:05:45.356 12200 12209 E System  : 	at libcore.icu.Transliterator.destroy(Native Method)
+05-13 03:05:45.356 12200 12209 E System  : 	at libcore.icu.Transliterator.finalize(SourceFile:37)
+05-13 03:05:45.356 12200 12209 E System  : 	at java.lang.Daemons$FinalizerDaemon.doFinalize(Daemons.java:222)
+05-13 03:05:45.356 12200 12209 E System  : 	at java.lang.Daemons$FinalizerDaemon.run(Daemons.java:209)
+05-13 03:05:45.356 12200 12209 E System  : 	at java.lang.Thread.run(Thread.java:761)
+05-13 03:05:45.356 12200 12209 E art     : No implementation found for void libcore.icu.Transliterator.destroy(long) (tried Java_libcore_icu_Transliterator_destroy and Java_libcore_icu_Transliterator_destroy__J)
+05-13 03:05:45.356 12200 12209 E System  : Uncaught exception thrown by finalizer
+05-13 03:05:45.356 12200 12209 E System  : java.lang.UnsatisfiedLinkError: No implementation found for void libcore.icu.Transliterator.destroy(long) (tried Java_libcore_icu_Transliterator_destroy and Java_libcore_icu_Transliterator_destroy__J)
+05-13 03:05:45.356 12200 12209 E System  : 	at libcore.icu.Transliterator.destroy(Native Method)
+05-13 03:05:45.356 12200 12209 E System  : 	at libcore.icu.Transliterator.finalize(SourceFile:37)
+05-13 03:05:45.356 12200 12209 E System  : 	at java.lang.Daemons$FinalizerDaemon.doFinalize(Daemons.java:222)
+05-13 03:05:45.356 12200 12209 E System  : 	at java.lang.Daemons$FinalizerDaemon.run(Daemons.java:209)
+05-13 03:05:45.356 12200 12209 E System  : 	at java.lang.Thread.run(Thread.java:761)
+05-13 03:05:45.356 12200 12209 E art     : No implementation found for void libcore.icu.Transliterator.destroy(long) (tried Java_libcore_icu_Transliterator_destroy and Java_libcore_icu_Transliterator_destroy__J)
+05-13 03:05:45.356 12200 12209 E System  : Uncaught exception thrown by finalizer
+05-13 03:05:45.356 12200 12209 E System  : java.lang.UnsatisfiedLinkError: No implementation found for void libcore.icu.Transliterator.destroy(long) (tried Java_libcore_icu_Transliterator_destroy and Java_libcore_icu_Transliterator_destroy__J)
+05-13 03:05:45.356 12200 12209 E System  : 	at libcore.icu.Transliterator.destroy(Native Method)
+05-13 03:05:45.356 12200 12209 E System  : 	at libcore.icu.Transliterator.finalize(SourceFile:37)
+05-13 03:05:45.356 12200 12209 E System  : 	at java.lang.Daemons$FinalizerDaemon.doFinalize(Daemons.java:222)
+05-13 03:05:45.356 12200 12209 E System  : 	at java.lang.Daemons$FinalizerDaemon.run(Daemons.java:209)
+05-13 03:05:45.356 12200 12209 E System  : 	at java.lang.Thread.run(Thread.java:761)
+05-13 03:05:45.420  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 03:05:45.421  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 03:05:50.422  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 03:05:50.423  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 03:05:55.424  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 03:05:55.425  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 03:06:00.428  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 03:06:00.429  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 03:06:05.430  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 03:06:05.430  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 03:06:10.433  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 03:06:10.434  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 03:06:12.844  4072  4428 E Logger  : 
+05-13 03:06:15.435  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 03:06:15.436  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 03:06:20.437  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 03:06:20.438  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
+05-13 03:06:25.439  2518  2858 E flymed_connector: Communications error: java.io.IOException: No such file or directory
+05-13 03:06:25.440  2518  2858 E flymed_connector: Error in NativeDaemonConnector: java.io.IOException: No such file or directory
