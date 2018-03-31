@@ -54,7 +54,7 @@ vendor_modify_images := boot
 # The default value is Bluetooth.
 # You can configure the apk name in the vendor/system/app or vendor/system/priv-app directory.
 #-----------------------------------------------------------------------------
-vendor_saved_apps := Bluetooth BluetoothExt BluetoothMidiService BookmarkProvider EasterEgg ExtShared HTMLViewer KeyChain NfcNci PacProcessor PrintRecommendationService PrintSpooler Stk UserDictionaryProvider WallpaperBackup WAPPushManager BackupRestoreConfirmation BlockedNumberProvider CarrierConfig CellBroadcastReceiver DefaultContainerService EmergencyInfo ExternalStorageProvider FusedLocation InputDevices ManagedProvisioning MtpDocumentsProvider ProxyHandler SharedStorageBackup Shell StatementService StorageManager Tag WallpaperCropper CMSettingsProvider
+vendor_saved_apps := Bluetooth BluetoothExt BluetoothMidiService BookmarkProvider EasterEgg ExtShared HTMLViewer KeyChain NfcNci PacProcessor PrintRecommendationService PrintSpooler Stk UserDictionaryProvider WallpaperBackup WAPPushManager BackupRestoreConfirmation BlockedNumberProvider CarrierConfig CellBroadcastReceiver DefaultContainerService EmergencyInfo ExternalStorageProvider FusedLocation InputDevices ManagedProvisioning MtpDocumentsProvider ProxyHandler SharedStorageBackup Shell StatementService StorageManager Tag WallpaperCropper CMSettingsProvider AntHalService shutdownlistener TimeService AudioFX CMAudioService CMParts ConfigPanel qcrilmsgtunnel Snap
 
 ##############################################################################
 # The value decides which vendor apk you want to modify.
@@ -72,7 +72,7 @@ vendor_saved_apps := Bluetooth BluetoothExt BluetoothMidiService BookmarkProvide
 # You need to decode android.policy.jar to the project directory (use apktool d android.policy.jar) first,
 # and then you can make it by:   make android.policy
 #-----------------------------------------------------------------------------
-vendor_modify_jars := framework qti-telephony-common services telephony-common wifi-service
+vendor_modify_jars := framework qti-telephony-common services telephony-common wifi-service org.cyanogenmod.platform
 
 ##############################################################################
 # The value decides which board system directory you want to save.
@@ -93,7 +93,7 @@ vendor_modify_jars := framework qti-telephony-common services telephony-common w
 # The default value is nothing.
 # You can configure the board system apk name in the value.
 #-----------------------------------------------------------------------------
-board_remove_apps := LogReport
+#board_remove_apps := LogReport
 
 ##############################################################################
 # The value decides which apk you want to modify, when the apk is based on the board system apk.
@@ -105,7 +105,7 @@ board_remove_apps := LogReport
 # The command idtoname how to use: first use "apktool d source/system/framework/framework-res.apk other/TMP/framework-res",
 # and then use "idtoname other/TMP/framework-res/res/values/public_master.xml XXXX/smali"(XXXX is the directory where you decode board system apk).
 #-----------------------------------------------------------------------------
-board_modify_apps := TeleService
+#board_modify_apps := TeleService
 
 ##############################################################################
 # The value decides which jar you want to modify, when the jar is based on the board framework jar.
@@ -155,7 +155,7 @@ override_property += \
 # Set it to be false when you want to escape the verification.
 # Default: true
 #-----------------------------------------------------------------------------
-USE_ASSERTIONS_IN_UPDATER_SCRIPT := false
+#USE_ASSERTIONS_IN_UPDATER_SCRIPT := false
 
 ##############################################################################
 # Defines whether reduces useless resources, only keep the resources of preferred configuration, like current density or locale.
